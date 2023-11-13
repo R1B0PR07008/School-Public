@@ -14,12 +14,37 @@
 
   <body>
     <div id="main-sec-div1">
-        <button class="btn" type="button" id="btn-1" onclick="toggle('1')">Sound 1</button>
-        <button class="btn" type="button" id="btn-2" onclick="toggle('2')">Sound 2</button>
-        <button class="btn" type="button" id="btn-3" onclick="toggle('3')">Sound 3</button><br>
-        <button class="btn" type="button" id="btn-4" onclick="toggle('4')">Sound 4</button>
-        <button class="btn" type="button" id="btn-5" onclick="toggle('5')">Sound 5</button>
-        <button class="btn" type="button" id="btn-6" onclick="toggle('6')">Sound 6</button>
+        <button class="btn" type="button" id="btn-1" onclick="toggle('1'); setup(); loadFiles()">
+          Sound 1
+          <input class="file-in" type="file" id="files1" onchange="loadFiles();">
+        </button>
+
+        <button class="btn" type="button" id="btn-2" onclick="toggle('2'); setup(); loadFiles()">
+          Sound 2
+          <input class="file-in" type="file" id="files2" onchange="loadFiles();">
+        </button>
+
+        <button class="btn" type="button" id="btn-3" onclick="toggle('3'); setup(); loadFiles()">
+          Sound 3
+          <input class="file-in" type="file" id="files3" onchange="loadFiles();">
+        </button>
+        <br>
+        <button class="btn" type="button" id="btn-4" onclick="toggle('4'); setup(); loadFiles()">
+          Sound 4
+          <input class="file-in" type="file" id="files4" onchange="loadFiles();">
+        </button>
+
+        <button class="btn" type="button" id="btn-5" onclick="toggle('5'); setup(); loadFiles()">
+          Sound 5
+          <input class="file-in" type="file" id="files5" onchange="loadFiles();">
+        </button>
+
+        <button class="btn" type="button" id="btn-6" onclick="toggle('6'); setup(); loadFiles()">
+          Sound 6
+          <input class="file-in" type="file" id="files6" onchange="loadFiles();">
+        </button>
+
+        <br>
     </div>
   </body>
   <script src="sketch.js"></script>

@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 html, body {
   margin: 0;
   padding: 0;
+  font-family: 'Poppins';
 }
 
 canvas {
@@ -21,7 +24,7 @@ body {
   margin-left: 0.5%;
   margin: 2mm;
   height: 100px;
-  width: 100px;
+  width: 350px;
   border-radius: 1.5mm;
   background-color: rgb(62, 86, 104);
   color: #f1f1f1;
@@ -32,6 +35,18 @@ body {
   /* font-family: 'Poppins'; */
   margin-left: 1%;
   
+}
+
+.file-in {
+  cursor: pointer;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 5px 5px;
+  margin: 5px;
+  background: #dddddd;
+  color: #010101;
+  display: inline-block;
+  font-family: 'Poppins';
 }
 
 
