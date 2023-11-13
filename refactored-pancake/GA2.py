@@ -1,6 +1,6 @@
 from music21 import converter, instrument, note, chord
 from pathlib import Path
-import pyaudio
+# import pyaudio
 import random
 import struct
 import math
@@ -11,10 +11,10 @@ notes_filtered = []
 frequencies = []
 prefered_ratios = []
 
-p = pyaudio.PyAudio()
-FORMAT = pyaudio.paInt16
-CHANNELS = 2
-RATE = 44100
+# p = pyaudio.PyAudio()
+# FORMAT = pyaudio.paInt16
+# CHANNELS = 2
+# RATE = 44100
 
 def data_for_freq(frequency: float, time: float):
     """get frames for a fixed frequency for a specified time or
@@ -41,15 +41,15 @@ def data_for_freq(frequency: float, time: float):
 
     return wavedata
 
-def play(frequency: float, time: float):
-    """
-    play a frequency for a fixed time!
-    """
-    frames = data_for_freq(frequency, time)
-    stream = p.open(format=FORMAT, channels=CHANNELS, rate=RATE, output=True)
-    stream.write(frames)
-    stream.stop_stream()
-    stream.close()
+# def play(frequency: float, time: float):
+#     """
+#     play a frequency for a fixed time!
+#     """
+#     frames = data_for_freq(frequency, time)
+#     stream = p.open(format=FORMAT, channels=CHANNELS, rate=RATE, output=True)
+#     stream.write(frames)
+#     stream.stop_stream()
+#     stream.close()
 
 def removefromarray(note):
     for i in range(1,7):
@@ -61,7 +61,7 @@ def removefromarray(note):
             pass
 
 songs = []
-folder = Path('B:/code/Useful_code/VSC Code/WEB-4_experimental/data/archive')
+folder = Path('./data/archive')
 for file in folder.rglob('*.mid'):
     songs.append(file)
 
@@ -277,33 +277,33 @@ def timesPlayed(measure):
         TP = 2
     return TP
 
-def timings(measures, bpm, final_notes):
-    BPM = bpm[random.randrange(0,3)]
-    BPMt = BPM/60
-    M = measures
-    c = 0
-    print(M)
-    for i in final_notes:
-        print("frequency: ")
-        print(float(i))
-        print("time")
-        print(float(bpmToS(BPM, M[c]))) # type: ignore
-        play(float(i), float(bpmToS(BPM, M[c]))) # type: ignore
-        if timesPlayed(M[c]) == 9: # type: ignore
-            break
-        elif timesPlayed(M[c]) == 3:
-            if c == 1:
-                break
-        elif timesPlayed(M[c]) == 1:
-            pass
-        elif timesPlayed(M[c]) == 2:
-            play(float(i), float(bpmToS(int(BPM), M[c]))) # type: ignore
+# def timings(measures, bpm, final_notes):
+#     BPM = bpm[random.randrange(0,3)]
+#     BPMt = BPM/60
+#     M = measures
+#     c = 0
+#     print(M)
+#     for i in final_notes:
+#         print("frequency: ")
+#         print(float(i))
+#         print("time")
+#         print(float(bpmToS(BPM, M[c]))) # type: ignore
+#         play(float(i), float(bpmToS(BPM, M[c]))) # type: ignore
+#         if timesPlayed(M[c]) == 9: # type: ignore
+#             break
+#         elif timesPlayed(M[c]) == 3:
+#             if c == 1:
+#                 break
+#         elif timesPlayed(M[c]) == 1:
+#             pass
+#         elif timesPlayed(M[c]) == 2:
+#             play(float(i), float(bpmToS(int(BPM), M[c]))) # type: ignore
 
-        if c == 6 and timesPlayed(M[c]) != 2:
-            break
-        elif c == 7:
-            break
-        c = c+1
+#         if c == 6 and timesPlayed(M[c]) != 2:
+#             break
+#         elif c == 7:
+#             break
+#         c = c+1
 
 print("################################################################")
 print("finess_func_ini: ")
@@ -316,4 +316,4 @@ print("good notes: ")
 print(good_notes)
 print("################################################################")
 print("timings")
-timings(m, bpm, final_notes)
+# timings(m, bpm, final_notes)

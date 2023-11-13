@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+/*! My own CSS */
+
+body {
+  background-color: rgb(180, 194, 207);
+}
+
+#main-sec-div1 {
+  background-color: rgb(180, 194, 207); 
+}
+
+.btn {
+  margin-left: 0.5%;
+  margin: 2mm;
+  height: 100px;
+  width: 100px;
+  border-radius: 1.5mm;
+  background-color: rgb(62, 86, 104);
+  color: #f1f1f1;
+  border-style: none;
+  font-size: larger;
+  font-weight: 600;
+  min-width: 100px;
+  /* font-family: 'Poppins'; */
+  margin-left: 1%;
+  
+}
+
+
+/* background-color: rgb(97, 101, 104) */
