@@ -58,81 +58,83 @@ let file4 ='./sounds/powerful-electric-guitar-notes-uptempo-loop_128bpm_B_major.
 let file5 ='./sounds/short-bass.wav';
 let file6 ='./sounds/sunflower-street-drumloop-85bpm-163900.mp3';
 
-if (document.getElementById('files1').files.length == 1) {
-    file1 = document.getElementById('files1').files
-} else {
-    file1 = ['./sounds/bass-loops-003-with-drums-long-loop-120-bpm-24371.mp3', 1]
-}
-if (document.getElementById('files2').files.length == 1) {
-    file2 = document.getElementById('files1').files
-} else {
-    file2 = ['./sounds/bass-loops-006-with-drums-long-loop-120-bpm-6111.mp3', 1]
-}
-if (document.getElementById('files3').files.length == 1) {
-    file3 = document.getElementById('files1').files
-} else {
-    file3 = ['./sounds/layered-snare_A_minor.wav', 1]
-}
-if (document.getElementById('files4').files.length == 1) {
-    file4 = document.getElementById('files1').files
-} else {
-    file4 = ['./sounds/powerful-electric-guitar-notes-uptempo-loop_128bpm_B_major.wav', 1]
-}
-if (document.getElementById('files5').files.length == 1) {
-    file5 = document.getElementById('files1').files
-} else {
-    file5 = ['./sounds/short-bass.wav', 1]
-}
-if (document.getElementById('files6').files.length == 1) {
-    file6 = document.getElementById('files1').files
-} else {
-    file6 = ['./sounds/sunflower-street-drumloop-85bpm-163900.mp3', 1]
-}
+// the code that handles the file input that doesn't curretly work.
 
-function loadFiles() {
-    if (document.getElementById('files1').files.length == 1) {
-        song1.pause();
-        file1 = document.getElementById('files1').files
-        preload();
-    } else {
-        file1 = ['./sounds/bass-loops-003-with-drums-long-loop-120-bpm-24371.mp3', 1]
-    }
-    if (document.getElementById('files2').files.length == 1) {
-        song2.pause();
-        file2 = document.getElementById('files1').files
-        preload();
-    } else {
-        file2 = ['./sounds/bass-loops-006-with-drums-long-loop-120-bpm-6111.mp3', 1]
-    }
-    if (document.getElementById('files3').files.length == 1) {
-        song3.pause();
-        file3 = document.getElementById('files1').files
-        preload();
-    } else {
-        file3 = ['./sounds/layered-snare_A_minor.wav', 1]
-    }
-    if (document.getElementById('files4').files.length == 1) {
-        song4.pause();
-        file4 = document.getElementById('files1').files
-        preload();
-    } else {
-        file4 = ['./sounds/powerful-electric-guitar-notes-uptempo-loop_128bpm_B_major.wav', 1]
-    }
-    if (document.getElementById('files5').files.length == 1) {
-        song5.pause();
-        file5 = document.getElementById('files1').files
-        preload();
-    } else {
-        file5 = ['./sounds/short-bass.wav', 1]
-    }
-    if (document.getElementById('files6').files.length == 1) {
-        song6.pause();
-        file6 = document.getElementById('files1').files
-        preload();
-    } else {
-        file6 = ['./sounds/sunflower-street-drumloop-85bpm-163900.mp3', 1]
-    }
-}
+// if (document.getElementById('files1').files.length == 1) {
+//     file1 = document.getElementById('files1').files
+// } else {
+//     file1 = ['./sounds/bass-loops-003-with-drums-long-loop-120-bpm-24371.mp3', 1]
+// }
+// if (document.getElementById('files2').files.length == 1) {
+//     file2 = document.getElementById('files1').files
+// } else {
+//     file2 = ['./sounds/bass-loops-006-with-drums-long-loop-120-bpm-6111.mp3', 1]
+// }
+// if (document.getElementById('files3').files.length == 1) {
+//     file3 = document.getElementById('files1').files
+// } else {
+//     file3 = ['./sounds/layered-snare_A_minor.wav', 1]
+// }
+// if (document.getElementById('files4').files.length == 1) {
+//     file4 = document.getElementById('files1').files
+// } else {
+//     file4 = ['./sounds/powerful-electric-guitar-notes-uptempo-loop_128bpm_B_major.wav', 1]
+// }
+// if (document.getElementById('files5').files.length == 1) {
+//     file5 = document.getElementById('files1').files
+// } else {
+//     file5 = ['./sounds/short-bass.wav', 1]
+// }
+// if (document.getElementById('files6').files.length == 1) {
+//     file6 = document.getElementById('files1').files
+// } else {
+//     file6 = ['./sounds/sunflower-street-drumloop-85bpm-163900.mp3', 1]
+// }
+
+// function loadFiles() {
+//     if (document.getElementById('files1').files.length == 1) {
+//         song1.pause();
+//         file1 = document.getElementById('files1').files
+//         preload();
+//     } else {
+//         file1 = ['./sounds/bass-loops-003-with-drums-long-loop-120-bpm-24371.mp3', 1]
+//     }
+//     if (document.getElementById('files2').files.length == 1) {
+//         song2.pause();
+//         file2 = document.getElementById('files1').files
+//         preload();
+//     } else {
+//         file2 = ['./sounds/bass-loops-006-with-drums-long-loop-120-bpm-6111.mp3', 1]
+//     }
+//     if (document.getElementById('files3').files.length == 1) {
+//         song3.pause();
+//         file3 = document.getElementById('files1').files
+//         preload();
+//     } else {
+//         file3 = ['./sounds/layered-snare_A_minor.wav', 1]
+//     }
+//     if (document.getElementById('files4').files.length == 1) {
+//         song4.pause();
+//         file4 = document.getElementById('files1').files
+//         preload();
+//     } else {
+//         file4 = ['./sounds/powerful-electric-guitar-notes-uptempo-loop_128bpm_B_major.wav', 1]
+//     }
+//     if (document.getElementById('files5').files.length == 1) {
+//         song5.pause();
+//         file5 = document.getElementById('files1').files
+//         preload();
+//     } else {
+//         file5 = ['./sounds/short-bass.wav', 1]
+//     }
+//     if (document.getElementById('files6').files.length == 1) {
+//         song6.pause();
+//         file6 = document.getElementById('files1').files
+//         preload();
+//     } else {
+//         file6 = ['./sounds/sunflower-street-drumloop-85bpm-163900.mp3', 1]
+//     }
+// }
 
 function preload() {
     song1 = loadSound(file1[0]+'');

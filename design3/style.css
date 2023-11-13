@@ -37,7 +37,8 @@ body {
   
 }
 
-.file-in {
+/* This CSS code styleizes(how ever you say that) the file inputs. */
+/* .file-in {
   cursor: pointer;
   border: 1px solid #cccccc;
   border-radius: 5px;
@@ -47,7 +48,7 @@ body {
   color: #010101;
   display: inline-block;
   font-family: 'Poppins';
-}
+} */
 
 
 /* background-color: rgb(97, 101, 104) */
