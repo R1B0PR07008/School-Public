@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: kollektif;
+    src: url(./fonts/kollektif/Kollektif-Bold.ttf);
+  }
+
+body {
+    background-color: #eeeeee;
+    color: #1a1717;
+}
+
+#h1-1 {
+    font-family: kollektif;
+    font-size: 1400%;
+    text-align: center;
+}
+
+#tini {
+    font-size: 30%;
+}
