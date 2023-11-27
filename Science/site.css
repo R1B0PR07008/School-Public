@@ -9,12 +9,37 @@ body {
     color: #1a1717;
 }
 
+p {
+    margin-top: 30%;
+    font-size: xx-large;
+    font-family: kollektif;
+    color: #524e4e;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 #h1-1 {
     font-family: kollektif;
-    font-size: 1400%;
+    font-size: 1700%;
     text-align: center;
+    margin-bottom: 0%;
 }
 
 #tini {
     font-size: 30%;
+}
+
+#h1-2 {
+    margin-top: 0%;
+    font-family: kollektif;
+    text-align: center;
+    color: #c7c5c5;
+    font-size: 200%;
+}
+
+.quotes {
+    color: #c7c5c5;
+    font-size: 70%;
+    vertical-align: top;
 }

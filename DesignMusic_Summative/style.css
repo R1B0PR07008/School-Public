@@ -1,0 +1,41 @@
+@font-face {
+  font-family: kollektif;
+  src: url(./fonts/kollektif/Kollektif-Bold.ttf);
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #010101;
+}
+
+canvas {
+  display: block;
+}
+
+.div1 {
+  width: 31.8%;
+  margin: 0.5%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #FFFFFF;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 2mm;
+  min-height: 100px;
+}
+
+input[type=submit] {
+  color: #010101;
+  background-color: #cacaca;
+  height: 50px;
+  width: 50px;
+  margin-top: 50px;
+  cursor: pointer;
+  border-color: #707070 #949494 #808080;
+  border-radius: 2mm;
+  border-width: 5px;
+  margin-left: 45%;
+  font-size: medium;
+  font-family: kollektif;
+}
