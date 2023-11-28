@@ -4,17 +4,21 @@
     src: url(./fonts/kollektif/Kollektif-Bold.ttf);
   }
 
+  @font-face {
+    font-family: kollektif-not;
+    src: url(./fonts/kollektif/Kollektif.ttf);
+  }
+
 body {
     background-color: #eeeeee;
     color: #1a1717;
 }
 
 p {
-    margin-top: 30%;
-    font-size: xx-large;
+    font-size: x-large;
     font-family: kollektif;
     color: #524e4e;
-    text-align: center;
+    /* text-align: center; */
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -24,6 +28,7 @@ p {
     font-size: 1700%;
     text-align: center;
     margin-bottom: 0%;
+    color: #252424;
 }
 
 #tini {
@@ -42,4 +47,42 @@ p {
     color: #c7c5c5;
     font-size: 70%;
     vertical-align: top;
+}
+
+#graphs {
+    margin-left: 20%;
+}
+
+#note {
+    text-align: center;
+    margin-top: 30%;
+    color: #c7c5c5;
+    font-size: 150%;
+}
+
+.note {
+    margin-top: 30%;
+    color: #c7c5c5;
+    font-size: 70%;
+}
+
+.tini-letter {
+    font-family: kollektif-not;
+    font-size: 80%;
+    font-weight: 600;
+}
+
+.tittle {
+    color: #252424;
+    font-size: 130%;
+}
+
+.sub-tittle {
+    color: #252424;
+    font-size: 120%;
+}
+
+.citation {
+    font-size: 85%;
+    font-family: kollektif-not;
 }
