@@ -50,7 +50,7 @@ p {
 }
 
 #graphs {
-    margin-left: 20%;
+    margin-left: 10%;
 }
 
 #note {
@@ -85,4 +85,35 @@ p {
 .citation {
     font-size: 85%;
     font-family: kollektif-not;
+}
+
+#graph-num-p {
+    display: inline;
+    text-align: center;
+}
+
+.graph {
+    margin: none;
+    border-radius: 5mm;
+    display: block;
+}
+
+#graph-1 {
+    display: inline-block;
+    text-align: center;
+}
+
+.btn {
+    margin-left: 0.5%;
+    margin: 2mm;
+    height: 30px;
+    border-radius: 1.5mm;
+    background-color: #524e4e;
+    color: #cacaca;
+    border-style: none;
+    font-size: larger;
+    font-weight: 500;
+    min-width: 100px;
+    font-family: kollektif-not;
+    margin-left: 1%;
 }
