@@ -14,25 +14,21 @@ canvas {
 }
 
 .div1 {
-  width: 31.8%;
+  width: 31%;
   margin: 0.5%;
-  border-width: 2px;
-  border-style: solid;
-  border-color: #FFFFFF;
   display: inline-block;
   vertical-align: top;
-  border-radius: 2mm;
   min-height: 100px;
 }
 
-input[type=submit] {
+input[type=button] {
   color: #010101;
-  background-color: #cacaca;
+  background-color: rgb(207, 211, 169);
   height: 50px;
   width: 50px;
   margin-top: 50px;
   cursor: pointer;
-  border-color: #707070 #949494 #808080;
+  border-color: #726262 #757070 #8a8181;
   border-radius: 2mm;
   border-width: 5px;
   margin-left: 45%;

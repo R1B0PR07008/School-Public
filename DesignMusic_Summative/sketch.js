@@ -17,15 +17,15 @@ function setup() {
 }
 
 //* button press code
-const input1 = document.getElementById('div-submit-1');
-const input2 = document.getElementById('div-submit-2');
+// const input1 = document.getElementById('div-submit-1');
+// const input2 = document.getElementById('div-submit-2');
 
-input1.addEventListener(keyPressed, (event) => {
-  console.log('key pressed')
-  if (event.key === 'A') {
-    console.log('key pressed');
-  }
-})
+// input1.addEventListener(keyPressed, (event) => {
+//   console.log('key pressed')
+//   if (event.key === 'A') {
+//     console.log('key pressed');
+//   }
+// })
 
 // function keypressed(key) {
 
@@ -66,3 +66,16 @@ input1.addEventListener(keyPressed, (event) => {
 //   }
   
 // }
+
+document.addEventListener('keydown', (event)=> {    
+  console.log(event); // all event related info
+  console.log(event.type);
+  console.log(event.key);
+  console.log(event.code);
+
+  if (event.key == 'a') {
+    document.getElementById('div1-submit-1').click();
+  } else if (event.key == 'b') {
+    document.getElementById('div1-submit-2').click();
+  }
+});
