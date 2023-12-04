@@ -9,6 +9,11 @@ html, body {
   background-color: #010101;
 }
 
+p {
+  font-family: kollektif;
+  color: #cacaca;
+}
+
 canvas {
   display: block;
 }
@@ -18,17 +23,21 @@ canvas {
   margin: 0.5%;
   display: inline-block;
   vertical-align: top;
-  min-height: 100px;
+  max-height: 100px;
+}
+
+#div2 {
+  background-color: transparent;
 }
 
 input[type=button] {
   color: #010101;
-  background-color: rgb(207, 211, 169);
+  background-color: rgb(195, 195, 192);
   height: 50px;
   width: 50px;
-  margin-top: 50px;
+  margin-top: 10px;
   cursor: pointer;
-  border-color: #726262 #757070 #8a8181;
+  border-color: #5f5757 #757070 #827d7d;
   border-radius: 2mm;
   border-width: 5px;
   margin-left: 45%;

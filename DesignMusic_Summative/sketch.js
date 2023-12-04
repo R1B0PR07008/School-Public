@@ -4,68 +4,25 @@ let key2 = 0;
 screenX = window.innerWidth
 screenY = window.innerHeight
 
-console.log(screenX)
+let song;
+let img;
+let vid1;
+let vid2;
+
+let playing = true;
+
+let toggle1 = false;
+let toggle2 = false;
 
 function setup() {
   createCanvas(screenX, screenY);
 
-  for (i=1;i<7000;i++) {
-    fill(240,240,250);
-    stroke(240,240,250);
-    circle(random(1,screenX), random(1,screenY), random(1,2))
-  }
+  img = loadImage('./img/img.png')
+  song = loadSound('./sound/osng.mp3')
+
+  vid1 = createVideo('./video/Earth_render.mp4')
+  vid2 = createVideo('./video/galaxy_render.mp4')
 }
-
-//* button press code
-// const input1 = document.getElementById('div-submit-1');
-// const input2 = document.getElementById('div-submit-2');
-
-// input1.addEventListener(keyPressed, (event) => {
-//   console.log('key pressed')
-//   if (event.key === 'A') {
-//     console.log('key pressed');
-//   }
-// })
-
-// function keypressed(key) {
-
-//   const input1 = document.getElementById('div-submit-1')
-//   const input2 = document.getElementById('div-submit-2')
-
-//   if (key === 1) {
-//     if (input1.key === 'A') {
-//       console.log('key1 is pressed');
-//       key1 = 1;
-//       } else if (key1 == 1) {
-//         key1 = 0;
-//         console.log('key1 is no longer pressed')
-//     }
-//     if (input1.key === 'D') {
-//       console.log('key1 is pressed');
-//       key2 = 1;
-//       } else if (key2 == 1) {
-//         key2 = 0;
-//         console.log('key1 is no longer pressed')
-//     }
-//   }
-//   if (key === 2) {
-//     if (input2.key === 'A') {
-//       console.log('key1 is pressed');
-//       key1 = 1;
-//       } else if (key1 == 1) {
-//         key1 = 0;
-//         console.log('key1 is no longer pressed')
-//     }
-//     if (input2.key === 'D') {
-//       console.log('key1 is pressed');
-//       key2 = 1;
-//       } else if (key2 == 1) {
-//         key2 = 0;
-//         console.log('key1 is no longer pressed')
-//     }
-//   }
-  
-// }
 
 document.addEventListener('keydown', (event)=> {    
   console.log(event); // all event related info
@@ -75,7 +32,67 @@ document.addEventListener('keydown', (event)=> {
 
   if (event.key == 'a') {
     document.getElementById('div1-submit-1').click();
-  } else if (event.key == 'b') {
+    if (key1 == 0) {
+      song.loop();
+      vid1.time(0);
+      key1 = 1;
+    } else if (key1==1) {
+      song.stop();
+      key1 = 0
+    }
+    console.log('key1 = '+key1)
+  } else if (event.key == 'd') {
     document.getElementById('div1-submit-2').click();
+    if (key2 == 0) {
+      song.loop();
+      vid2.time(0);
+      key2 = 1;
+    } else if (key2==1) {
+      song.stop();
+      key2 = 0
+    }console.log('key2 = '+key2)
+  } else {
   }
 });
+
+function draw() {
+  background(img)
+  
+  if (key1 == 1) {
+    background(img)
+    
+    if (vid1.time() >= 5.0) {
+      vid1.pause();
+      let img1 = vid1.get();
+      image(img1,0,0)
+    }else {
+      vid1.play();
+      let img1 = vid1.get();
+      image(img1,0,0)
+    }
+
+    console.log(vid1.time())
+
+    playing = !playing;
+  } else if (key2 == 1) {
+    background(img);
+
+    if (vid2.time() >= 4.4) {
+      vid2.pause();
+      let img1 = vid2.get();
+      image(img1,0,0)
+    } else {
+      vid2.play();
+      let img1 = vid2.get();
+      image(img1,0,0)
+    }
+
+    console.log(vid2.time())
+
+    playing = !playing;
+  } else {
+    vid1.hide();
+    vid2.hide();
+  }
+
+}
