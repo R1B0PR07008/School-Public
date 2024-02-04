@@ -14,7 +14,7 @@ prefered_ratios = []
 # p = pyaudio.PyAudio()
 # FORMAT = pyaudio.paInt16
 # CHANNELS = 2
-# RATE = 44100
+RATE = 44100
 
 def data_for_freq(frequency: float, time: float):
     """get frames for a fixed frequency for a specified time or
@@ -61,7 +61,7 @@ def removefromarray(note):
             pass
 
 songs = []
-folder = Path('./data/archive')
+folder = Path('/home/r1b0ld1/Documents/GitHub/School-Public/refactored-pancake/data/archive')
 for file in folder.rglob('*.mid'):
     songs.append(file)
 
