@@ -8,3 +8,4 @@ for file in folder.rglob('*.wav'):
 
 for i,file in enumerate(songs):
     print(f'{i+1}: {file}')
+

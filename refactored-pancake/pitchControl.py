@@ -1,5 +1,5 @@
 from pydub import AudioSegment
-fileName = './data/sound/clean-guitar-note_A_minor.wav'
+fileName = '/home/r1b0ld1/Documents/GitHub/School-Public/refactored-pancake/sound/guitar-single-note-d_120bpm_C_minor.mp3'
 sound  = AudioSegment.from_file(fileName, format='wav')
 
 octaves = 1
