@@ -2,11 +2,20 @@ from pydub import AudioSegment
 fileName = '/home/r1b0ld1/Documents/GitHub/School-Public/refactored-pancake/sound/guitar-single-note-d_120bpm_C_minor.mp3'
 sound  = AudioSegment.from_file(fileName, format='wav')
 
-octaves = 1
+def make_audios(file):
+    filename = file
+    sound = AudioSegment.from_file(filename, format=filename[-3:])
 
-new_sample_rate = int(sound.frame_rate * (2.0 ** octaves)) # changes sample rate 
+    octaves = 0.5
+    one_second = 2 *1000
 
-hipitch_sound = sound._spawn(sound.raw_data, overrides={'frame_rate': new_sample_rate}) # applies new sample rate
+    for octaves in np.linspace(-1,1,21):
+        new_sample_rate = int(sound.frame_rate * (2.0 ** octaves))
+        hipitch_sound = sound._spawn(sound.raw_data, overrides={'frame_rate': new_sample_rate})
+        hipitch_sound = hipitch_sound.set_frame_rate(44100)
+    #export / save pitch changed sound
+        hipitch_sound_out = hipitch_sound[:one_second]
+        hipitch_sound_out.export(f"octave_{octaves}.wav", format="wav")
 
 hipitch_sound = hipitch_sound.set_frame_rate(44100) #sets a frame rate
 
