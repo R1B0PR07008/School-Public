@@ -1,14 +1,12 @@
-import sys
-import librosa
+from pydub import AudioSegment
 
-from sound_to_midi.monophonic import wave_to_midi
+A = AudioSegment.from_mp3('./sound/new/Guitar_A.mp3')
+B = AudioSegment.from_mp3('./sound/new/Guitar_B.mp3')
+C = AudioSegment.from_mp3('./sound/new/Guitar_C.mp3')
+D = AudioSegment.from_mp3('./sound/new/Guitar_D.mp3')
+E = AudioSegment.from_mp3('./sound/new/Guitar_E.mp3')
+F = AudioSegment.from_mp3('./sound/new/Guitar_F.mp3')
+G = AudioSegment.from_mp3('./sound/new/Guitar_G.mp3')
 
-print("Starting...")
-file_in = './sound/guitar-single-note-d_120bpm_C_minor.mp3'
-
-y, sr = librosa.load(file_in, sr=None)
-print("Audio file loaded!")
-midi = wave_to_midi(y)
-print("Conversion finished!")
-midi.writeFile('.mid')
-print("Done. Exiting!")
+A = A + B
+A.export('A.mp3', format='mp3')
