@@ -1,0 +1,30 @@
+/** Font thingy */
+@import url(https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap);
+
+.body {
+    background-color: #F9EAE1;
+    font-family: 'Space Grotesk';
+    color: #2C2628;
+}
+
+#div1 {
+    background-color: #F9EAE1;
+
+    height: 400px;
+
+    box-shadow: none;
+}
+
+.sec {
+    display: inline-block;
+    width: 95%;
+    margin: 2%;
+
+    height: 200px;
+
+    background-color: #2CDA9D;
+
+    border-radius: 5mm;
+
+    padding: 2%;
+}

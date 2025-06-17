@@ -1,0 +1,1006 @@
+{
+  "status": "ok",
+  "totalResults": 12060,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Jeremy Gan",
+      "title": "The NVIDIA app, currently in beta, will replace GeForce Experience soon",
+      "description": "This February, NVIDIA released a one-stop graphical adjustments app in beta, succinctly named the NVIDIA App\r\n. The app isn\u2019t a direct replacement for the existing GeForce Experience app since it also lets you install other NVIDIA apps like GeForce NOW (cloud\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9cb0a864-a4f9-4adb-90fa-941b842c7d1a",
+      "urlToImage": null,
+      "publishedAt": "2024-10-02T15:28:53Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "The Leaked Nvidia RTX 5090 Has So Many Cores It Actually Scares Me",
+      "description": "Get ready to watch the lights on your block dim as you plug in the upcoming Nvidia GeForce RTX 5090, a GPU that may have 5,000 more CUDA cores than the last gen.",
+      "url": "https://gizmodo.com/the-leaked-nvidia-rtx-5090-has-so-many-cores-it-actually-scares-me-2000504254",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/Nvidia-Geforce-RTX-Graphics-Card.jpg",
+      "publishedAt": "2024-09-27T13:35:22Z",
+      "content": "The\u00a0GeForce RTX 4090 is already so big that any PC builder worth their salt knows that you\u2019ll need specialized brackets just to keep it from falling and dismantling your computer. The anticipated RTX\u2026 [+3131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Jeremy Gan",
+      "title": "ByteDance will reportedly use Huawei chips to train a new AI model",
+      "description": "As first reported by Reuters, ByteDance, the Chinese parent company of TikTok, is planning to train and develop an AI model\r\n using chips from fellow Chinese company Huawei. Three anonymous sources approached Reuters with this information; a fourth source cou\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_696f4cdb-5436-43e1-b3cd-6cdaee93cbe7",
+      "urlToImage": null,
+      "publishedAt": "2024-09-30T15:48:46Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "2024-10-08T09:12:40Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Shubhangi Goel",
+      "title": "Jensen Huang says he wants Nvidia to be a company with 100 million AI assistants",
+      "description": "Nvidia CEO Jensen Huang said on a podcast says he hopes Nvidia will one day be a 50,000-employee company that works with 100 million AI assistants.",
+      "url": "https://www.businessinsider.com/jensen-huang-wants-nvidia-to-have-100-million-ai-assistants-2024-10",
+      "urlToImage": "https://i.insider.com/670cc294a703186492818e84?width=1200&format=jpeg",
+      "publishedAt": "2024-10-14T08:15:20Z",
+      "content": "Jensen Huang wants Nvidia to be a company with 100 million AI assistants I-hwa Cheng/Getty\r\n<ul><li>Jensen Huang says he hopes Nvidia will be a 50,000 employee company with \"a 100 million AI assistan\u2026 [+3132 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "NVIDIA Shield TV is still getting updates nearly a decade later",
+      "description": "NVIDIA released a new update for its almost ten-year-old Shield TV experience.",
+      "url": "https://www.androidcentral.com/streaming-tv/nvidia-shield-tv-october-2024-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hqzVszAeAhCWTZrDdcKrm4-1200-80.jpg",
+      "publishedAt": "2024-10-13T21:33:06Z",
+      "content": "What you need to know\r\n<ul><li>NVIDIA just dropped a surprising update for its Shield TV experience that's still going nearly ten years later.</li><li>The update, titled as the \"second hotfix,\" solve\u2026 [+2581 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slashdot.org" },
+      "author": "BeauHD",
+      "title": "Foxconn Building Nvidia Superchip Facility In Mexico",
+      "description": "Foxconn has chosen Mexico for the site of the world's largest manufacturing facility for Nvidia's GB200 superchips. These chips are a \"key component of the U.S. firm's next-generation Blackwell family computing platform,\" notes Reuters. From the report: \"We'r\u2026",
+      "url": "https://slashdot.org/story/24/10/08/2219214/foxconn-building-nvidia-superchip-facility-in-mexico",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "publishedAt": "2024-10-09T01:25:00Z",
+      "content": "\"We're building the largest GB200 production facility on the planet,\" said Benjamin Ting, Foxconn senior vice president for the cloud enterprise solutions business group. Nvidia said in August that i\u2026 [+1031 chars]"
+    },
+    {
+      "source": { "id": null, "name": "VentureBeat" },
+      "author": "Dean Takahashi",
+      "title": "Nvidia makes 7 tech announcements in Washington D.C. as antitrust looms",
+      "description": "Nvidia showed tech in the nation's capital at its AI Summit to help educate the government at a time when Nvidia is facing an antitrust probe.",
+      "url": "https://venturebeat.com/ai/nvidia-showcases-tech-in-washington-d-c-as-antitrust-looms/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/10/NVIDIA-AI-Software-Image.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2024-10-08T15:00:00Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nNvidia showed off its technology in Washington, D.C. today at its AI Su\u2026 [+13734 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Eugene Kim",
+      "title": "This chart shows one potential advantage AWS's AI chips have over Microsoft and Google",
+      "description": "AI chip investments by Amazon, Google, and Microsoft aim to challenge Nvidia, with AWS's broader availability offering a potential edge.",
+      "url": "https://www.businessinsider.com/aws-ai-chips-wider-regional-availability-microsoft-google-2024-9",
+      "urlToImage": "https://i.insider.com/6622c44b23b29110d3011ce1?width=1200&format=jpeg",
+      "publishedAt": "2024-09-26T09:00:02Z",
+      "content": "Noah Berger/Getty Images\r\n<ul><li>Big tech cloud providers are developing homegrown AI chips to rival Nvidia.</li><li>Amazon, Google, and Microsoft have AI chips, but AWS's offerings have wider avail\u2026 [+3550 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Emma Cosgrove",
+      "title": "Nvidia's days of absolute dominance in AI could be numbered because of this key performance benchmark",
+      "description": "Startups like SambaNova and Cerebras are challenging Nvidia in the AI inference market, emphasizing speed to gain an edge.",
+      "url": "https://www.businessinsider.com/nvidia-competition-sambanova-groq-cerebras-show-faster-inference-speed-2024-9",
+      "urlToImage": "https://i.insider.com/66f425a5cfb7f307e574cbbe?width=1200&format=jpeg",
+      "publishedAt": "2024-09-26T09:00:02Z",
+      "content": "Rodrigo Liang, CEO and co-founder of SambaNova SystemsSambaNova Systems\r\n<ul><li>Nvidia faces competition in AI inference from startups like SambaNova, Groq, and Cerebras.</li><li>Inference, the prod\u2026 [+6555 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "tmohamed@insider.com (Theron Mohamed)",
+      "title": "Mark Zuckerberg and Jensen Huang's combined wealth gains this year equate to the 7th richest person in the world",
+      "description": "Meta CEO Mark Zuckerberg and Nvidia CEO Jensen Huang are worth a combined $324 billion, more than Coca-Cola or Netflix's market value.",
+      "url": "https://www.businessinsider.com/meta-nvidia-stock-zuckerberg-huang-wealth-billionaires-tech-ai-2024-10",
+      "urlToImage": "https://i.insider.com/66a92013aab37011780bb982?width=1024&format=jpeg",
+      "publishedAt": "2024-10-18T12:43:02Z",
+      "content": "Mark Zuckerberg and Jensen Huang have collectively grown over $150 billion richer this year, a figure that exceeds Warren Buffett's net worth.\r\nZuckerberg, the CEO and cofounder of Meta, has added $7\u2026 [+1653 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Morgan Meaker",
+      "title": "Xavier Niel, a Driving Force of French AI, Is Now Shaping TikTok",
+      "description": "The TikTok owner\u2019s newest board member revels in challenging the establishment.",
+      "url": "https://www.wired.com/story/what-xavier-niel-can-do-for-tiktok/",
+      "urlToImage": "https://media.wired.com/photos/66ec923fcf12663ad5820f42/191:100/w_1280,c_limit/xavier-niel-web--2.jpg",
+      "publishedAt": "2024-09-20T10:53:37Z",
+      "content": "If Europe wants to compete with Asia and the US on AI, he believes the continent has to act now. If you want to create a search engine now from scratch, you cannot win because you were not there 25 y\u2026 [+3633 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Luis Miranda",
+      "title": "AMD anuncia un nuevo chip de IA que har\u00e1 temblar a NVIDIA",
+      "description": "AMD present\u00f3 un nuevo chip con el que espera competir con NVIDIA en el campo de la IA. El Instinct MI325X es un acelerador basado en la arquitectura CDNA 3 que ofrece una potencia considerable para equipar centros de datos. Seg\u00fan AMD, su nuevo chip supera has\u2026",
+      "url": "http://hipertextual.com/2024/10/amd-anuncia-nuevo-chip-ia-instinct-mi325x",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/10/amd-instinct-325x-ia-scaled.jpg?fit=2560%2C1599&quality=70&strip=all&ssl=1",
+      "publishedAt": "2024-10-10T21:30:00Z",
+      "content": "AMD present\u00f3 un nuevo chip con el que espera competir con NVIDIA en el campo de la IA. El Instinct MI325X es un acelerador basado en la arquitectura CDNA 3 que ofrece una potencia considerable para e\u2026 [+2071 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Emma Cosgrove",
+      "title": "Sovereign AI explained: An AI cloud CEO unpacks what's behind the trend",
+      "description": "Nvidia CEO Jensen Huang has referenced sovereign AI. The CEO of a company with more than 30 global data centers explains what it means.",
+      "url": "https://www.businessinsider.com/sovereign-clouds-explained-data-center-ai-national-security-vultr-2024-10",
+      "urlToImage": "https://i.insider.com/67005c773f2165d716deab95?width=1200&format=jpeg",
+      "publishedAt": "2024-10-07T09:00:02Z",
+      "content": "Vultr executives CEO J.J. Kardwell (right) and COO David Gucker were early customers of Nvidia.Vultr\r\n<ul><li>Vultr operates global data centers to enhance AI computing capabilities and speed.</li><l\u2026 [+6463 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Jyoti Mann",
+      "title": "Jensen Huang thinks we're all going to have our own R2-D2 or C-3PO robots follow us around",
+      "description": "Nvidia chief Jensen Huang referenced Star Wars when talking about the future of robotics during an appearance at T-Mobile's Capital Markets Day.",
+      "url": "https://www.businessinsider.com/jensen-huang-robots-r2d2-c3po-star-wars-nvidia-2024-9",
+      "urlToImage": "https://i.insider.com/66ebee31d17aa3c7b2b40b1d?width=1200&format=jpeg",
+      "publishedAt": "2024-09-19T12:50:45Z",
+      "content": "Jensen Huang sees the next wave of AI as being physical. JOSH EDELSON/Getty Images\r\n<ul><li>Nvidia CEO Jensen Huang predicts a future with personal robots like R2-D2 and C-3PO from Star Wars.</li><li\u2026 [+2218 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Emma Cosgrove",
+      "title": "The AI boom turned Nvidia into a trillion-dollar giant. Its next big bet is even more complex.",
+      "description": "Jensen Huang's vision for Nvidia includes advancing AI-driven robotics, but technical and market hurdles could impact the company's ambitious goals.",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-robots-huamanoid-self-driving-cars-2024-9",
+      "urlToImage": "https://i.insider.com/66f6b9f6f9f6733e4be03737?width=1200&format=jpeg",
+      "publishedAt": "2024-10-01T09:00:02Z",
+      "content": "ktsimage/Getty,Justin Sullivan/Getty, Tyler Le/BI\r\n<ul><li>Nvidia's gaming past and mastering of the GPU made it well-positioned for the AI boom.</li><li>Its next market to corner is advanced robotic\u2026 [+9784 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Gabriel Erard",
+      "title": "La NVIDIA RTX 5090 ser\u00eda una absoluta bestia",
+      "description": "NVIDIA est\u00e1 preparando algo muy grande para su pr\u00f3xima GPU insignia, seg\u00fan una nueva filtraci\u00f3n. De acuerdo con las supuestas caracter\u00edsticas t\u00e9cnicas que se han divulgado en las \u00faltimas horas, la NVIDIA GeForce RTX 5090 ser\u00eda una absoluta bestia. Y no solo e\u2026",
+      "url": "http://hipertextual.com/2024/09/nvidia-geforce-rtx-5090-caracteristicas-filtradas",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/09/nvidia-Jensen-Huang--scaled.jpeg?fit=2560%2C1707&quality=70&strip=all&ssl=1",
+      "publishedAt": "2024-09-26T20:30:00Z",
+      "content": "NVIDIA est\u00e1 preparando algo muy grande para su pr\u00f3xima GPU insignia, seg\u00fan una nueva filtraci\u00f3n. De acuerdo con las supuestas caracter\u00edsticas t\u00e9cnicas que se han divulgado en las \u00faltimas horas, la NV\u2026 [+1975 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jess Weatherbed",
+      "title": "Sony\u2019s new OLED gaming monitor is one of the fastest you can buy",
+      "description": "Sony has introduced a new flagship 27-inch InZone M10S 480Hz gaming monitor that aims to appeal to competitive players across both PC and PS5 systems.",
+      "url": "https://www.theverge.com/2024/9/24/24253167/sony-inzone-gaming-monitor-m10s-480hz-oled",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/_d1eZ5XDBVGMSptOhUnAW6Zc3Rk=/229x409:2894x2046/1200x628/filters:focal(1500x1125:1501x1126)/cdn.vox-cdn.com/uploads/chorus_asset/file/25637669/M10S_front.jpeg",
+      "publishedAt": "2024-09-24T16:00:42Z",
+      "content": "Sonys new OLED gaming monitor is one of the fastest you can buy\r\nSonys new OLED gaming monitor is one of the fastest you can buy\r\n / The new flagship 27-inch InZone M10S features variable refresh rat\u2026 [+2322 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Luis Miranda",
+      "title": "NVIDIA ya dej\u00f3 de fabricar su tarjeta gr\u00e1fica m\u00e1s poderosa",
+      "description": "Con los reportes sobre las caracter\u00edsticas de la GeForce RTX 5090 circulando, algunos usuarios han comenzado a especular lo que ocurrir\u00e1 con los modelos actuales. La RTX 4090 se ubica como la tarjeta gr\u00e1fica para juegos m\u00e1s poderosa de NVIDIA, sin embargo, en\u2026",
+      "url": "http://hipertextual.com/2024/10/nvidia-ya-dejo-de-fabricar-su-tarjeta-grafica-mas-poderosa",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/geforce-rtx-4090-nvidia-scaled.jpg?fit=2560%2C1440&quality=70&strip=all&ssl=1",
+      "publishedAt": "2024-10-04T20:30:00Z",
+      "content": "Con los reportes sobre las caracter\u00edsticas de la GeForce RTX 5090 circulando, algunos usuarios han comenzado a especular lo que ocurrir\u00e1 con los modelos actuales. La RTX 4090 se ubica como la tarjeta\u2026 [+2024 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "Nvidia stock jumps after CEO Jensen Huang says 'demand for Blackwell is insane'",
+      "description": "\"Blackwell is in full production, Blackwell is as planned,\" Jensen Huang said. \"Everybody wants to have the most and everybody wants to be first.\"",
+      "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-jensen-huang-blackwell-gpu-demand-ai-tech-2024-10",
+      "urlToImage": "https://i.insider.com/66fe9dc37de5c8fd4834f0b7?width=1200&format=jpeg",
+      "publishedAt": "2024-10-03T14:36:22Z",
+      "content": "Nvidia stock jumped as much as 5% on Thursday following comments from CEO Jensen Huang about the strong demand the company is experiencing for its next-generation Blackwell GPU chips.\r\nThe stock pare\u2026 [+1926 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Jaures Yip",
+      "title": "Nvidia CEO Jensen Huang breaks down how he interviews job candidates",
+      "description": "Nvidia's CEO says anyone can research technical questions or come across well in an interview. So he zeroes in on their references.",
+      "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-job-interview-style-reference-check-2024-10",
+      "urlToImage": "https://i.insider.com/670962eea703186492815493?width=1200&format=jpeg",
+      "publishedAt": "2024-10-14T10:03:01Z",
+      "content": "Nvidia CEO Jensen Huang explains why the interview process isn't always the most effective.Chip Somodevilla/Getty Images\r\n<ul><li>Nvidia CEO Jensen Huang talked about his recruiting process in a rece\u2026 [+3268 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Emma Cosgrove",
+      "title": "Nvidia is nearing a record high. This is what's driving it.",
+      "description": "Nvidia's stock surged 24% in a month, driven by OpenAI's $6.6 billion funding and ongoing demand for AI computing, signaling renewed confidence in AI.",
+      "url": "https://www.businessinsider.com/nvidia-stock-nears-all-time-high-after-openai-funding-2024-10",
+      "urlToImage": "https://i.insider.com/6706d166198738e3a70f7109?width=1024&format=jpeg",
+      "publishedAt": "2024-10-10T09:00:02Z",
+      "content": "Jensen Huang, CEO of NVIDIA, arrives for the Inaugural AI Insight Forum in Russell Building on Capitol Hill, on Wednesday, September 13, 2023.Tom Williams/CQ-Roll Call/Getty Images\r\n<ul><li>Nvidia's \u2026 [+4670 chars]"
+    },
+    {
+      "source": { "id": null, "name": "VentureBeat" },
+      "author": "Michael Nu\u00f1ez",
+      "title": "Nvidia just dropped a new AI model that crushes OpenAI\u2019s GPT-4\u2014no big launch, just big results",
+      "description": "Nvidia quietly launched a groundbreaking AI model that surpasses OpenAI\u2019s GPT-4 and Anthropic\u2019s Claude 3.5, signaling a major shift in the competitive landscape of artificial intelligence.",
+      "url": "https://venturebeat.com/ai/nvidia-just-dropped-a-new-ai-model-that-crushes-openais-gpt-4-no-big-launch-just-big-results/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/10/nuneybits_a_brilliant_sunrise_but_instead_of_a_natural_landscap_2765f9f2-d796-4207-977a-b27e6281faf3.webp?w=1024?w=1200&strip=all",
+      "publishedAt": "2024-10-17T01:45:28Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nNvidia quietly unveiled a new artificial intelligence model on Tuesday \u2026 [+6093 chars]"
+    },
+    {
+      "source": { "id": null, "name": "VentureBeat" },
+      "author": "Dean Takahashi",
+      "title": "Why countries are in a race to build AI factories in the name of sovereign AI",
+      "description": "Nvidia has earmarked $110 million to invest in \"sovereign AI\" startups, and many countries are investing in AI on their own.",
+      "url": "https://venturebeat.com/ai/why-countries-are-in-a-race-to-build-ai-factories-in-the-name-of-sovereign-ai/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/09/Will-Sovereign-AI-remake-data-centers_.jpg?w=1024?w=1200&strip=all",
+      "publishedAt": "2024-09-26T16:00:00Z",
+      "content": "Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More\r\nNow that AI has become a fundamentally important technology, and the wo\u2026 [+19185 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Riddhi Kanetkar",
+      "title": "Exclusive: AI cloud startup Ori is in talks to raise up to $80 million in funding, sources say",
+      "description": "Investor appetite for startups building the \"picks and shovels\" of AI is high \u2014 and sources say Ori is in talks to raise up to $80 million.",
+      "url": "https://www.businessinsider.com/ori-gpu-ai-startup-talks-raise-funding-nvidia-2024-10",
+      "urlToImage": "https://i.insider.com/66d5db7114a5cd1fcc8c7e1d?width=1200&format=jpeg",
+      "publishedAt": "2024-10-08T13:51:39Z",
+      "content": "Ori builds infrastructure using Nvidia GPUs for companies to train and deploy AI applications via the cloud. Nvidia\r\n<ul><li>AI cloud startup Ori is raising up to $80 million in new funding, two sour\u2026 [+2160 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Jyoti Mann",
+      "title": "Jensen Huang hails Elon Musk and xAI for building an AI supercomputer at 'superhuman' speed",
+      "description": "In the 'Bg2 Pod' podcast, Nvidia's Jensen Huang lauds Elon Musk's xAI for a supercomputer project completed in just 19 days.",
+      "url": "https://www.businessinsider.com/jensen-huang-elon-musk-supercomputer-xai-grok-2024-10",
+      "urlToImage": "https://i.insider.com/670d020b3f2165d716e08cfe?width=1200&format=jpeg",
+      "publishedAt": "2024-10-14T12:56:42Z",
+      "content": "Jensen Huang praised Elon Musk in an interview on the \"BG2 Pod\" podcast.Getty Images\r\n<ul><li>Nvidia's Jensen Huang praised Elon Musk for building a supercomputer cluster in \"19 days.\"</li><li>Huang \u2026 [+2322 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Theron Mohamed",
+      "title": "Nvidia's value soars by $400 billion in 5 days. That's more than Costco is worth.",
+      "description": "Nvidia's 14% rally has made the chipmaker more valuable than Microsoft, and CEO Jensen Huang the world's 11th richest person.",
+      "url": "https://www.businessinsider.com/nvidia-stock-price-blackwell-ai-market-value-costco-jensen-huang-2024-10",
+      "urlToImage": "https://i.insider.com/67065921198738e3a70f470b?width=1200&format=jpeg",
+      "publishedAt": "2024-10-09T11:16:40Z",
+      "content": "Jensen Huang is the CEO of Nvidia, now the world's second-most valuable company.Chip Somodevilla/Getty Images\r\n<ul><li>Nvidia stock climbed 4% on Tuesday, extending its rally to 14% in five days.</li\u2026 [+2482 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slashdot.org" },
+      "author": "BeauHD",
+      "title": "AMD Launches AI Chip To Rival Nvidia's Blackwell",
+      "description": "AMD is launching a new chip to rival Nvidia's upcoming Blackwell chips, which Nvidia called the \"world's most powerful chip\" for AI when unveiled earlier this year. CNBC reports: The Instinct MI325X, as the chip is called, will start production before the end\u2026",
+      "url": "https://tech.slashdot.org/story/24/10/10/2143241/amd-launches-ai-chip-to-rival-nvidias-blackwell",
+      "urlToImage": "https://a.fsdn.com/sd/topics/amd_64.png",
+      "publishedAt": "2024-10-11T00:45:00Z",
+      "content": "The Instinct MI325X, as the chip is called, will start production before the end of 2024, AMD said Thursday during an event announcing the new product. If AMD's AI chips are seen by developers and cl\u2026 [+1212 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Luis Miranda",
+      "title": "Foxconn construir\u00e1 una gigantesca f\u00e1brica de chips de NVIDIA en M\u00e9xico",
+      "description": "Foxconn anunci\u00f3 que construir\u00e1 la f\u00e1brica m\u00e1s grande de chips de NVIDIA en M\u00e9xico. El gigante asi\u00e1tico confirm\u00f3 que la planta ser\u00e1 responsable de producir los chips GB200 que potenciar\u00e1n las tarjetas gr\u00e1ficas con arquitectura Blackwell. El anuncio se da a uno\u2026",
+      "url": "http://hipertextual.com/2024/10/foxconn-fabrica-chips-ia-nvidia-mexico",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/03/huang-blackwell-nvidia-scaled.jpg?fit=2560%2C1439&quality=70&strip=all&ssl=1",
+      "publishedAt": "2024-10-08T18:45:00Z",
+      "content": "Foxconn anunci\u00f3 que construir\u00e1 la f\u00e1brica m\u00e1s grande de chips de NVIDIA en M\u00e9xico. El gigante asi\u00e1tico confirm\u00f3 que la planta ser\u00e1 responsable de producir los chips GB200 que potenciar\u00e1n las tarjetas\u2026 [+1931 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Sarah Jackson",
+      "title": "How AI is changing business at telecom giants, according to Nvidia and Verizon execs",
+      "description": "Telecom giants are one class of enterprises betting big on AI, with a handful turning data centers into \"AI factories\" as the tech booms.",
+      "url": "https://www.businessinsider.com/how-ai-changing-business-telecommunications-giants-mwc-2024-10",
+      "urlToImage": "https://i.insider.com/670969caa703186492815a2e?width=1200&format=jpeg",
+      "publishedAt": "2024-10-12T16:18:05Z",
+      "content": "Some telecommunications providers are turning some of their data centers into \"AI factories,\" for one thing.\u00a9 2024 GSMA / MWC\r\n<ul><li>It feels like everyone is talking about how to use AI in their b\u2026 [+3587 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Dell Cameron",
+      "title": "As FTC Chair Lina Khan\u2019s Term Expires, Democrats Are Torn Between Donors and Their Base",
+      "description": "New polling shows roughly 80 percent of Democrats feel the government should be doing more to take on corporate monopolies. Still, prominent party donors are urging Kamala Harris to dump Lina Khan.",
+      "url": "https://www.wired.com/story/ftc-chair-lina-khans-democrats-donors-harris/",
+      "urlToImage": "https://media.wired.com/photos/66ec4e66916a40c37df10fa4/191:100/w_1280,c_limit/GettyImages-1540260535.jpg",
+      "publishedAt": "2024-09-27T11:30:00Z",
+      "content": "For months, speculation has raged in Washington over the future of Lina Khan, the Federal Trade Commission chair and face of the Biden administrations crusade against monopoly power. Overturning deca\u2026 [+3239 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "OpenAI raises $6.6 bln, with Microsoft, Nvidia among investors",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_12e4403c-ef76-49d4-bd54-45c936ec715e",
+      "urlToImage": null,
+      "publishedAt": "2024-10-03T04:39:06Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Top Analyst Reports for NVIDIA, American Express & Wells Fargo",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_076be8e9-8932-495a-81d7-ee4068ebccc3",
+      "urlToImage": null,
+      "publishedAt": "2024-09-27T20:12:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Why November could be a buying opportunity for Nvidia",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_62e8fef3-cf98-40cf-ad69-937a42741529",
+      "urlToImage": null,
+      "publishedAt": "2024-10-16T21:30:06Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Jim Cramer on NVIDIA Corporation (NASDAQ:NVDA): \u201cA $10 Trillion Stock\u201d",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f9232a2f-daea-4759-9805-2c684602503a",
+      "urlToImage": null,
+      "publishedAt": "2024-09-29T01:57:29Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Joe Tilleli",
+      "title": "Give Up on the PS5 Pro and Welcome in a Powerful ASUS Gaming Laptop for Not Much More This Prime Day",
+      "description": "The ASUS ROG Strix G16 gaming laptop is 21% off for Prime Day. Dominate the gaming competition by taking advantage of Amazon Prime deals.",
+      "url": "https://gizmodo.com/give-up-on-the-ps5-pro-and-welcome-in-a-powerful-asus-gaming-laptop-for-not-much-more-this-prime-day-2000509249",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/ASUS-ROG-Strix-G16-.jpg",
+      "publishedAt": "2024-10-08T17:40:40Z",
+      "content": "Prime Day has arrived and gamers are eating good. If you were hoping to snag the new PS5 Pro, well, sorry. That\u2019s not here. But perhaps its time to get into PC gaming instead? Gaming console prices a\u2026 [+2153 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Gizmodo Deals",
+      "title": "This Prime Day, Our Favorite TV is The 65-Inch LG C4 OLED at 45% Off",
+      "description": "This price is ridiculously low!",
+      "url": "https://gizmodo.com/this-prime-day-our-favorite-tv-is-the-65-inch-lg-c4-oled-at-45-off-2000508365",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-c4.jpg",
+      "publishedAt": "2024-10-07T17:15:53Z",
+      "content": "As the Prime Day event kicks off on Amazon, there\u2019s an exceptional deal on the LG OLED evo C4 Series 4K TVs which offers unprecedented value across multiple screen sizes. What makes this offer even m\u2026 [+2464 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Jose Garc\u00eda",
+      "title": "NVIDIA ha conseguido un nuevo r\u00e9cord en bolsa y eso significa una cosa: una ola de dinero para sus aliados",
+      "description": "NVIDIA lo ha vuelto a hacer. La ola de dinero en la que est\u00e1 montado el sector de la inteligencia artificial sigue creciendo y los \u00faltimos datos del fabricante de chips as\u00ed lo reflejan. NVIDIA ha vuelto a batir r\u00e9cords en bolsa, superando a Microsoft como la \u2026",
+      "url": "https://www.xataka.com/empresas-y-economia/nvidia-ha-conseguido-nuevo-record-bolsa-eso-significa-cosa-ola-dinero-para-sus-aliados",
+      "urlToImage": "https://i.blogs.es/f15535/original/840_560.jpeg",
+      "publishedAt": "2024-10-15T17:30:46Z",
+      "content": "NVIDIA lo ha vuelto a hacer. La ola de dinero en la que est\u00e1 montado el sector de la inteligencia artificial sigue creciendo y los \u00faltimos datos del fabricante de chips as\u00ed lo reflejan. NVIDIA ha vue\u2026 [+2877 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Riddhi Kanetkar",
+      "title": "TensorWave wants to break Nvidia's dominance in AI compute. Here's an exclusive look at the pitch deck it used to raise $43 million.",
+      "description": "TensorWave wants to challenge Nvidia's dominance in AI compute by offering alternative GPU hardware from AMD that is accessible via the cloud.",
+      "url": "https://www.businessinsider.com/pitch-deck-tensorwave-safe-funding-nvidia-amd-ai-compute-2024-10",
+      "urlToImage": "https://i.insider.com/670405263f2165d716dede11?width=1200&format=jpeg",
+      "publishedAt": "2024-10-08T12:02:12Z",
+      "content": "The TensorWave founding team believes Nvidia has a monopoly in AI compute. TensorWave\r\n<ul><li>TensorWave has raised $43 million for its AI cloud service platform.</li><li>The Las Vegas startup offer\u2026 [+2185 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Linnea Ahlgren",
+      "title": "Nebius is tripling Nvidia GPU capacity at its AI data centre in Finland",
+      "description": "\u201cWelcome on board. I have been tasked with taking you to M\u00e4nts\u00e4l\u00e4 \u2014 in the middle of nowhere,\u201d the minivan driver greets us in the characteristic clear and unhurried intonations of a Finnish native speaker. M\u00e4nts\u00e4l\u00e4 is, indeed, in the middle of nowhere. But t\u2026",
+      "url": "https://thenextweb.com/news/nebius-tripling-nvidia-gpu-capacity-ai-cloud-data-centre-finland",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F10%2FSlide-16_9-1-e1728368254657.jpg&signature=88fe1cdc59a092d5e341defe48b5fd71",
+      "publishedAt": "2024-10-08T07:00:05Z",
+      "content": "Welcome on board. I have been tasked with taking you to M\u00e4nts\u00e4l\u00e4 in the middle of nowhere, the minivan driver greets us in the characteristic clear and unhurried intonations of a Finnish native speak\u2026 [+6204 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PC Gamer" },
+      "author": "Jacob Fox",
+      "title": "Nvidia might be in the blame game with TSMC over Blackwell chip failures, but that doesn't mean it will go back to Samsung",
+      "description": "It's not impossible, but TSMC's incredibly strong right now.",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-might-be-in-the-blame-game-with-tsmc-over-blackwell-chip-failures-but-that-doesnt-mean-it-will-go-back-to-samsung",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xAVKBnWbeGC.BSnjJVuQ9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_gamer_708/ebc1f4915604013ef487efe12ac258ff",
+      "publishedAt": "2024-10-17T15:07:41Z",
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nCredit: Nvidia\r\nAlthough Nvidia's Blackwell chips are finally starting to line server racksfor \u2026 [+2946 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Danny Gallagher",
+      "title": "OpenAI rakes in over $6 billion in new funding",
+      "description": "Now that OpenAI is becoming a for-profit company, it\u2019s making a tidy profit in the process. The Wall Street Journal\r\n reported that OpenAI has raised $6.6 billion in new funding from investors, nearly doubling its value to $157 billion. The new funding also m\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae113eb3-b7a2-4396-8423-0c590ec338d2",
+      "urlToImage": null,
+      "publishedAt": "2024-10-02T19:21:11Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "zacharydvisconti@gmail.com (Zachary Visconti)",
+      "title": "Black Friday deals have come early with HALF OFF this 48-inch LG OLED TV at Best Buy",
+      "description": "Best Buy is celebrating Black Friday early this year with half off for this 48-inch LG 4K Smart TV\u2014or $750 in savings.",
+      "url": "https://www.androidcentral.com/streaming-tv/black-friday-deals-have-come-early-with-half-off-this-48-inch-lg-oled-tv-at-best-buy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/99PKB9SGhBPa4inXmm4qc8-1200-80.jpg",
+      "publishedAt": "2024-10-16T20:26:40Z",
+      "content": "Early Black Friday deals are already starting to hit the wire, and this next one's a highly discounted LG OLED TV. For a limited time, Best Buy has chopped the price of this LG 48-inch Class B4 Serie\u2026 [+1725 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Jacob Roach",
+      "title": "25 years ago, Nvidia changed PCs forever",
+      "description": "In October 1999, Nvidia released the GeForce 256, which completely changed how we think about PC hardware and gaming forever.",
+      "url": "https://www.digitaltrends.com/computing/nvidia-geforce-256-anniversary/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/10/geforce-256-half-life.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-11T13:00:04Z",
+      "content": "Twenty-five years ago, Nvidia released the GeForce 256 and changed the face of PCs forever. It wasn\u2019t the first graphics card produced by Nvidia \u2014 it was actually the sixth \u2014 but it was the first tha\u2026 [+2258 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures Rise; Nvidia Climbs In Buy Area As China Stocks Sell Off",
+      "description": "Insurers fueled Monday's market retreat. Tesla cut some European EV prices.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-china-stocks-tesla/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2024/06/Stock-Nvidia-cornice-adobe.jpg",
+      "publishedAt": "2024-10-08T13:12:07Z",
+      "content": "The Dow Jones was little changed Tuesday, while the S&amp;P 500 and Nasdaq rose modestly. Nvidia (NVDA) extended its rally on the stock market today while Tesla (TSLA) trimmed some electric vehicle p\u2026 [+4538 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Is This Company an \"Nvidia Killer?\" What to Know About Cerebras' IPO",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2f77a176-12b8-4757-853b-714058b2b7be",
+      "urlToImage": null,
+      "publishedAt": "2024-10-06T14:00:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "NVIDIA Corporation (NVDA): Stock That Will Make You Rich in 5-10 Years",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d531aac5-3d4f-4186-935b-97c25223c2e4",
+      "urlToImage": null,
+      "publishedAt": "2024-10-09T06:23:15Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Juan Carlos L\u00f3pez",
+      "title": "Nadie puede con NVIDIA: ingresar\u00e1 10.000 millones de d\u00f3lares por las 450.000 GPU 'Blackwell' que va a fabricar",
+      "description": "NVIDIA no es el \u00fanico fabricante de GPU para aplicaciones de inteligencia artificial (IA) del mercado. AMD, Intel o Huawei son algunos de sus competidores, pero ninguno de ellos ha conseguido hacerle la m\u00e1s m\u00ednima sombra. Al menos por el momento. Y es que su \u2026",
+      "url": "https://www.xataka.com/empresas-y-economia/nadie-puede-nvidia-ingresara-10-000-millones-dolares-450-000-gpu-blackwell-que-va-a-fabricar",
+      "urlToImage": "https://i.blogs.es/c86153/nvidia-ap/840_560.jpeg",
+      "publishedAt": "2024-09-26T09:31:02Z",
+      "content": "NVIDIA no es el \u00fanico fabricante de GPU para aplicaciones de inteligencia artificial (IA) del mercado. AMD, Intel o Huawei son algunos de sus competidores, pero ninguno de ellos ha conseguido hacerle\u2026 [+3565 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Juan Carlos L\u00f3pez",
+      "title": "China empieza a dejar de necesitar a EEUU: el Gobierno prefiere que sus empresas ya no compren los chips de NVIDIA",
+      "description": "El Gobierno liderado por Xi Jinping quiere que las compa\u00f1\u00edas de tecnolog\u00eda chinas dejen de comprar circuitos integrados a NVIDIA. Por el momento el paso que ha dado, seg\u00fan SCMP, es meramente informativo, pero se ha dirigido expresamente a las empresas que adq\u2026",
+      "url": "https://www.xataka.com/empresas-y-economia/china-empieza-a-dejar-necesitar-a-eeuu-gobierno-prefiere-que-sus-empresas-no-compren-chips-nvidia",
+      "urlToImage": "https://i.blogs.es/251d8d/nvidia-ap/840_560.jpeg",
+      "publishedAt": "2024-10-07T15:45:03Z",
+      "content": "El Gobierno liderado por Xi Jinping quiere que las compa\u00f1\u00edas de tecnolog\u00eda chinas dejen de comprar circuitos integrados a NVIDIA. Por el momento el paso que ha dado, seg\u00fan SCMP, es meramente informat\u2026 [+4311 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Gizmodo Deals",
+      "title": "At -45% on Amazon Prime Day, This LG C4 Series TV Will Sell Like Hotcakes",
+      "description": "Amazon surprises us with this unprecedented offer.",
+      "url": "https://gizmodo.com/at-45-on-amazon-prime-day-this-lg-c4-series-tv-will-sell-like-hotcakes-2000508799",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-oled.jpg",
+      "publishedAt": "2024-10-08T12:10:27Z",
+      "content": "Today is the first day of Prime Day at Amazon, and you can enjoy a stunning deal on LG\u2019s OLED evo C4 Series 4K TVs. The current deal offers a massive discount across multiple screen sizes and what\u2019s \u2026 [+2939 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Tom Maxwell",
+      "title": "SpaceX Reportedly Strong-Arms Spectrum From Rivals Who Want a Ride on a Rocket",
+      "description": "SpaceX operates flights to space as well as a satellite internet division with multiple rivals who rely on those flights.",
+      "url": "https://gizmodo.com/spacex-reportedly-strong-arms-spectrum-from-rivals-who-want-a-ride-on-a-rocket-2000510133",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2158701295.jpg",
+      "publishedAt": "2024-10-09T21:30:10Z",
+      "content": "SpaceX started as a company developing reusable rockets in hopes of lowering the cost of entering space. They have been successful at that, and many clients including NASA now rely on SpaceX to send \u2026 [+2937 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Gizmodo Deals",
+      "title": "Prime Day: Amazon Crushes The Price Of LG OLED C4 TVs By 40% But Can\u2019t Officially Display It",
+      "description": "Due to an agreement with the manufacturer, Amazon is not allowed to officially display such low prices.",
+      "url": "https://gizmodo.com/prime-day-amazon-crushes-the-price-of-lg-oled-c4-tvs-by-40-but-cant-officially-display-it-2000508034",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-oled.jpg",
+      "publishedAt": "2024-10-06T20:39:42Z",
+      "content": "As Prime Day event has started on Amazon, there\u2019s an exceptional deal on the LG OLED evo C4 Series 4K TVs which offers unprecedented value across multiple screen sizes. The good news it that this dea\u2026 [+2566 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Mike Fazioli",
+      "title": "Best Buy Is Selling This 4.6-Star-Rated 4K Big Screen TV for Half Price \u2014 If You Hurry",
+      "description": "LG's 48-Inch OLED Smart TV is a streaming and gaming superstar, and it's only $750",
+      "url": "https://gizmodo.com/best-buy-is-selling-this-4-6-star-rated-4k-big-screen-tv-for-half-price-if-you-hurry-2000500665",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/LG-48-inch-class-TV.jpg",
+      "publishedAt": "2024-09-19T14:05:45Z",
+      "content": "If you\u2019re looking at your TV and you\u2019re thinking \u201ctoo small,\u201d \u201ctoo old,\u201d or you\u2019re just feeling like you need an upgrade, Best Buy has a great deal for you. They\u2019ve slashed the price on the highly ra\u2026 [+2312 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Slashdot.org" },
+      "author": "EditorDavid",
+      "title": "Hobbyist Builds a Modern System That Still Runs MS-DOS",
+      "description": "He's the long-time Slashdot reader who installed Linux on a 1993 PC \u2014 and then installed a 1994 version of MS-DOS on a modern Thinkpad X13. (And somewhere along the way, he even built a ChatGPT client for DOS...) \n\nBut in a new blog post, yeokm1 reveals \"I re\u2026",
+      "url": "https://tech.slashdot.org/story/24/10/06/0342212/hobbyist-builds-a-modern-system-that-still-runs-ms-dos",
+      "urlToImage": "https://a.fsdn.com/sd/topics/os_64.png",
+      "publishedAt": "2024-10-06T14:34:00Z",
+      "content": "He's the long-time Slashdot reader who installed Linux on a 1993 PC \u2014 and then installed a 1994 version of MS-DOS on a modern Thinkpad X13. (And somewhere along the way, he even built a ChatGPT clien\u2026 [+2177 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Eva-Maria Wei\u00df",
+      "title": "Nvidia investiert in OpenAI und ver\u00f6ffentlicht Konkurrenzmodel",
+      "description": "NVLM 1.0 ist eine Sprachmodell-Familie, die es laut Nvidia mit GPT-4o aufnehmen kann. Die Modelle sind multimodal und Open Source.",
+      "url": "https://www.heise.de/news/Nvidia-investiert-in-OpenAI-und-veroeffentlicht-Konkurrenzmodel-9961932.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/0/7/1/2/shutterstock_1606529806-faa2a0bf1b0bf81c.jpg",
+      "publishedAt": "2024-10-04T08:27:00Z",
+      "content": "Nvidia ver\u00f6ffentlicht eine eigene Familie an Large Language Models (LLMs). NVLM 1.0 wird angef\u00fchrt von einem 72B Parameter Model mit dem Namen NVLM-D 72B. Dieses soll es mit OpenAIs GPT-4o aufnehmen \u2026 [+2491 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Emma Cosgrove",
+      "title": "Everyone wants to know what AI is worth. One investor looked to the past for the $20 trillion answer.",
+      "description": "AI is fairly consistent with past tech waves according to a new analysis from Fundrise.",
+      "url": "https://www.businessinsider.com/ai-value-estimate-20-trillion-tech-wave",
+      "urlToImage": "https://i.insider.com/6595d4a3ab6f2ebb11f8a2d9?width=1200&format=jpeg",
+      "publishedAt": "2024-10-03T18:04:06Z",
+      "content": "CEO and cofounder of Fundrise, Ben Miller.Fundrise\r\n<ul><li>Fundrise CEO Ben Miller analyzed AI's potential, estimating a $20 trillion value.</li><li>Miller's team compared AI's growth to past tech w\u2026 [+5468 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Dennis Schirrmacher",
+      "title": "Schadcode-Schlupfloch in Nvidia Container Toolkit geschlossen",
+      "description": "Angreifer k\u00f6nnen an Sicherheitsl\u00fccken in Nvidia Container Toolkit und GPU Operator ansetzen, um Systeme zu kompromittieren.",
+      "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Nvidia-Container-Toolkit-geschlossen-9955200.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/7/7/1/5/0/shutterstock_1571734357-26f48c63d404c3a0.jpg",
+      "publishedAt": "2024-09-27T07:30:00Z",
+      "content": "Unter anderem eine kritische Schwachstelle macht Nvidia Container Toolkit und GPU Operator unter Linux f\u00fcr Angriffe verwundbar. Sicherheitspatches sind verf\u00fcgbar.\r\nMit Container Toolkit nutzen Admins\u2026 [+1193 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Javier Pastor",
+      "title": "AMD ya tiene nuevas gr\u00e1ficas para IA. La pregunta es si ser\u00e1n suficiente para robarle la cartera a NVIDIA",
+      "description": "NVIDIA parece marchar a paso imperial en el segmento de la inteligencia artificial. Sus chips son los m\u00e1s deseados, pero poco a poco la competencia va despertando. Que se lo digan a AMD.\n<!-- BREAK 1 -->\nBienvenidas, MI325X. La empresa present\u00f3 ayer sus nueva\u2026",
+      "url": "https://www.xataka.com/robotica-e-ia/amd-tiene-nuevas-graficas-para-ia-pregunta-seran-suficiente-para-robarle-cartera-a-nvidia",
+      "urlToImage": "https://i.blogs.es/e75070/amd-instinct-325x/840_560.jpeg",
+      "publishedAt": "2024-10-11T17:31:33Z",
+      "content": "NVIDIA parece marchar a paso imperial en el segmento de la inteligencia artificial. Sus chips son los m\u00e1s deseados, pero poco a poco la competencia va despertando. Que se lo digan a AMD.\r\nBienvenidas\u2026 [+2740 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Monica J. White",
+      "title": "Nvidia might finally fix its VRAM problem \u2014 at a cost",
+      "description": "Nvidia might be fixing one of the biggest problems with its graphics cards, but it's going to take some time.",
+      "url": "https://www.digitaltrends.com/computing/nvidia-rtx-5090-laptop-leak/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/01/razerblade1416ces2024.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-04T12:58:08Z",
+      "content": "It\u2019s no secret that some of Nvidia\u2019s best graphics cards could use a little more VRAM. According to a new leak, Nvidia may be addressing that problem in a big way \u2014 at least in laptops. The RTX 5090 \u2026 [+2619 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Juan Carlos L\u00f3pez",
+      "title": "Huawei est\u00e1 intentando erradicar a NVIDIA de las tecnol\u00f3gicas chinas. Su chip Ascend 910C para IA es su arma",
+      "description": "Hasta la llegada del paquete de sanciones a China aprobado por EEUU que entr\u00f3 en vigor el 16 de noviembre de 2023, NVIDIA acaparaba algo m\u00e1s del 90% del mercado chino de los chips para inteligencia artificial (IA). Sin embargo, despu\u00e9s de esa fecha su posici\u00f3\u2026",
+      "url": "https://www.xataka.com/empresas-y-economia/huawei-esta-intentando-erradicar-a-nvidia-tecnologicas-chinas-su-chip-ascend-910c-para-ia-su-arma",
+      "urlToImage": "https://i.blogs.es/96c5aa/huawei-ap/840_560.jpeg",
+      "publishedAt": "2024-10-01T09:30:54Z",
+      "content": "Hasta la llegada del paquete de sanciones a China aprobado por EEUU que entr\u00f3 en vigor el 16 de noviembre de 2023, NVIDIA acaparaba algo m\u00e1s del 90% del mercado chino de los chips para inteligencia a\u2026 [+4127 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Jacob Roach",
+      "title": "The Nvidia app just added a feature I\u2019ve wanted for years",
+      "description": "The Nvidia app just got a massive update, which includes a new feature that allows you to roll back your GPU driver.",
+      "url": "https://www.digitaltrends.com/computing/nvidia-app-driver-rollback/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/02/Screenshot-2024-02-22-at-9.02.23\u202fAM.png?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-01T14:05:54Z",
+      "content": "Nvidia just released a big update for its Nvidia app. If you\u2019re unfamiliar, Nvidia has been slowly integrating features and settings from GeForce Experience, the Nvidia Control Panel, and other apps \u2026 [+2523 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Monica J. White",
+      "title": "Nvidia might be doubling down on its controversial pricing strategy",
+      "description": "If you thought the RTX 40 series was expensive, wait until you see what Nvidia might be serving up with the 50 series graphics cards.",
+      "url": "https://www.digitaltrends.com/computing/rtx-50-potential-pricing-leaked/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/12-pin.00_00_27_21.Still007.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-10T12:47:02Z",
+      "content": "When Nvidia\u2019s RTX 4090 launched at $1,600, the general consensus was that it was too expensive; the RTX 4080 at $1,200 was even worse. Well, hold on to your hat, because according to a new leak, Nvid\u2026 [+3014 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hackaday" },
+      "author": "Jenny List",
+      "title": "Winamp Taken Down: Too Good For This Open Source World",
+      "description": "If you picked today in your hackerspace\u2019s sweepstake on when Winamp would pull their code repository, congratulations! You\u2019re a winner! The source for the Windows version of the venerable music \u2026read more",
+      "url": "https://hackaday.com/2024/10/16/winamp-taken-down-too-good-for-this-open-source-world/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2024/09/winamp-featured.jpg",
+      "publishedAt": "2024-10-17T02:00:40Z",
+      "content": "It doesn\u2019t seem they understood what they had, nevermind open source licences.\r\nSure, to have so much GPL and other problematic code mixed in there tells you that over the decades the original develo\u2026 [+1437 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Huggingface.co" },
+      "author": null,
+      "title": "Nvidia releases NVLM 1.0 72B open weight model",
+      "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+      "url": "https://huggingface.co/nvidia/NVLM-D-72B",
+      "urlToImage": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/NVLM-D-72B.png",
+      "publishedAt": "2024-10-02T03:48:53Z",
+      "content": "Model Details\r\nToday (September 17th, 2024), we introduce NVLM 1.0, a family of frontier-class multimodal large language models (LLMs) that achieve state-of-the-art results on vision-language tasks, \u2026 [+10209 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Lawrence Nga, The Motley Fool",
+      "title": "1 Solid AI Stock That's Not Nvidia or Palantir to Focus On in the Next Few Years",
+      "description": "This AI company could reach trillions of dollars in market capitalization.",
+      "url": "https://finance.yahoo.com/news/1-solid-ai-stock-thats-111500631.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-09-19T11:15:00Z",
+      "content": "Artificial intelligence (AI) is probably one of the biggest trends that will change our daily lives in the coming decades. While AI is still in its early development stage, companies like Nvidia and \u2026 [+5665 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Manali Pradhan, The Motley Fool",
+      "title": "Move Over, Nvidia: Billionaires Are Selling Its Shares and Buying Up These 2 Artificial Intelligence (AI) Stocks Instead",
+      "description": "Many billionaires are shifting some of their AI investments toward Super Micro Computer and Microsoft.",
+      "url": "https://finance.yahoo.com/news/move-over-nvidia-billionaires-selling-083300873.html/",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-09-21T08:33:00Z",
+      "content": "Wall Street has fallen in love with the artificial intelligence (AI) trend. This is not surprising, considering that PwC analysts expect AI to add nearly $15.7 trillion to the global economy annually\u2026 [+7436 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Here\u2019s How Much Money You Missed Out on If You Didn\u2019t Buy 100 Shares of Nvidia This Year",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7851ac3b-9c3f-44d2-a4e8-de9182d86285",
+      "urlToImage": null,
+      "publishedAt": "2024-09-21T18:01:09Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "Elon Musk set up 100,000 Nvidia H200 GPUs in 19 days - Jensen says process normally takes 4 years",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b260e56f-5267-4403-98f1-358200cbccca",
+      "urlToImage": null,
+      "publishedAt": "2024-10-14T20:17:33Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": null,
+      "title": "The 3 Best-Performing Stock-Split Stocks of 2024 So Far -- and Nvidia Doesn't Top the List",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc1fd506-c806-4e87-9691-38d47040767a",
+      "urlToImage": null,
+      "publishedAt": "2024-10-14T09:42:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Mark Mantel",
+      "title": "Microsoft und OpenAI zeigen die ersten Nvidia-Blackwell-Systeme",
+      "description": "Nvidia liefert die ersten Blackwell-GPUs aus. Microsoft und OpenAI zeigen ihre Systeme \u2013 eins davon mit riesigem K\u00fchlk\u00f6rper.",
+      "url": "https://www.heise.de/news/Microsoft-und-OpenAI-zeigen-die-ersten-Nvidia-Blackwell-Systeme-9975521.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/6/1/9/8/nvidia-ceo-jensen-huang-showcases-GB200-grace-blackwell-superchips-a1134042c17c5799-5c56b86c8ec78a97.webp",
+      "publishedAt": "2024-10-09T15:12:00Z",
+      "content": "Es ist mittlerweile Tradition, dass OpenAI als erste Firma neue KI-Beschleuniger von Nvidia erh\u00e4lt. Dieses Jahr ist ein System vom Typ DGX B200 dran. Es verwendet acht B200-Beschleuniger aus der Blac\u2026 [+1789 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Jacob Roach",
+      "title": "If you want to buy an RTX 4090, now might be your last chance",
+      "description": "More reports are coming out that Nvidia has discontinued the RTX 4090, so now might be your last chance to score the card at a reasonable price.",
+      "url": "https://www.digitaltrends.com/computing/rtx-4090-might-be-discontinued/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-review-featured.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-04T14:12:47Z",
+      "content": "There\u2019s no disputing that the RTX 4090 is one of the best graphics cards you can buy, but now might be your last chance to buy it. According to members of the Board Channels forum (via VideoCardz), N\u2026 [+2318 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Monica J. White",
+      "title": "Bad news for AMD: Nvidia might fast-track the RTX 50-series",
+      "description": "Nvidia might be shifting its strategy in the upcoming RTX 50 series, and that's good news for gamers, but perhaps not for AMD.",
+      "url": "https://www.digitaltrends.com/computing/rtx-50-series-release-date-for-mainstream-gpus/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/rtx-4060-review-11.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-16T12:57:49Z",
+      "content": "Things are finally about to start heating up for some of the best graphics cards. Although we\u2019re still in the dark about final release dates, both AMD and Nvidia are said to be launching new GPUs in \u2026 [+2639 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Briley Kenney",
+      "title": "To make the most of NVIDIA RTX AI PCs, opt for GIGABYTE\u2019s latest laptops",
+      "description": "With GIGABYTE's gaming laptops like the G6X you can make the most of NVIDIA RTX AI support, leveraging true power and performance to boost productivity.",
+      "url": "https://www.digitaltrends.com/brc/gigabyte-nvidia-rtx-ai-pcs-september-2024/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/09/GIGABYTE-Gaming-on-G6X-gaming-laptop-with-NVIDIA.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-09-24T14:33:52Z",
+      "content": "You may or may not already know this, but NVIDIA\u2019s latest GPUs, the NVIDIA GeForce RTX 40 Series, are built to enhance compatibility and performance in the era of AI. More specifically, NVIDIA\u2019s indu\u2026 [+5355 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Brenda Stolyar",
+      "title": "18 Best Prime Day Laptop Deals (2024)",
+      "description": "From MacBooks to Chromebooks to Copilot+ PCs, these are the best Prime Day laptop deals from brands we know and love. Amazon's Prime Big Deal Days end on October 9.",
+      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/",
+      "urlToImage": "https://media.wired.com/photos/67030e284e9413875879f0e2/191:100/w_1280,c_limit/Best-Prime-Day-Laptop-Deals-102024-Custom-APD-Background-SOURCE-Amazon.jpg",
+      "publishedAt": "2024-10-09T08:10:56Z",
+      "content": "if you're in the market for a laptop but want to spend money wisely, you're in luck. Amazon's Prime Day deals end today, October 9, and you'll find a number of our favorite laptops on sale. Not sure \u2026 [+10213 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Javier Pastor",
+      "title": "NVIDIA ya es la reina en hardware de IA. Ahora va a por GPT-4 y Llama y lanza su propio LLM \"Open Source\"",
+      "description": "En el segmento de la IA hay dos grandes carreras, la del hardware y la del software. En la del hardware reina NVIDIA, que con sus GPUs para centros de datos \u2014como las c\u00e9lebres H100 o las nuevas B200\u2014 se ha convertido en due\u00f1a y se\u00f1ora de este mercado.\n<!-- BR\u2026",
+      "url": "https://www.xataka.com/robotica-e-ia/nvidia-reina-hardware-ia-ahora-va-a-gpt-4-llama-lanza-su-propio-llm-open-source",
+      "urlToImage": "https://i.blogs.es/5d37eb/nvidia/840_560.jpeg",
+      "publishedAt": "2024-10-02T08:31:08Z",
+      "content": "En el segmento de la IA hay dos grandes carreras, la del hardware y la del software. En la del hardware reina NVIDIA, que con sus GPUs para centros de datos como las c\u00e9lebres H100 o las nuevas B200 s\u2026 [+2295 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Javier Marquez",
+      "title": "NVIDIA presentar\u00e1 las gr\u00e1ficas GeForce RTX 50 en el CES 2025, seg\u00fan Wccftech. Prometen un aut\u00e9ntico derroche de potencia",
+      "description": "NVIDIA ha sido noticia varias veces este a\u00f1o por su papel en el mundo de de la inteligencia artificial (IA). La compa\u00f1\u00eda liderada por Jensen Huang se ha convertido en la aut\u00e9ntica ganadora de esta industria con sus soluciones especializadas como los sistemas \u2026",
+      "url": "https://www.xataka.com/componentes/nvidia-presentara-graficas-geforce-rtx-50-ces-2025-wccftech-prometen-autentico-derroche-potencia",
+      "urlToImage": "https://i.blogs.es/5db8bb/geforce-rtx-series-portada/840_560.jpeg",
+      "publishedAt": "2024-10-09T19:01:16Z",
+      "content": "NVIDIA ha sido noticia varias veces este a\u00f1o por su papel en el mundo de de la inteligencia artificial (IA). La compa\u00f1\u00eda liderada por Jensen Huang se ha convertido en la aut\u00e9ntica ganadora de esta in\u2026 [+2140 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Javier Pastor",
+      "title": "Apple no participar\u00e1 en la nueva ronda de inversi\u00f3n de OpenAI, seg\u00fan el WSJ. Tiene buenos motivos",
+      "description": "La ronda de inversi\u00f3n de OpenAI podr\u00eda cerrarse estos d\u00edas. Se espera que la firma levante 6.500 millones de d\u00f3lares y que su valoraci\u00f3n estimada alcance unos espectaculares 150.000 millones de d\u00f3lares. En esa ronda participar\u00e1n supuestamente gigantes como Mi\u2026",
+      "url": "https://www.xataka.com/empresas-y-economia/apple-no-participara-ronda-inversion-openai-wsj-raro-hubiera-sido-contrario",
+      "urlToImage": "https://i.blogs.es/4db5c1/tim-sam/840_560.jpeg",
+      "publishedAt": "2024-09-30T11:42:14Z",
+      "content": "La ronda de inversi\u00f3n de OpenAI podr\u00eda cerrarse estos d\u00edas. Se espera que la firma levante 6.500 millones de d\u00f3lares y que su valoraci\u00f3n estimada alcance unos espectaculares 150.000 millones de d\u00f3lar\u2026 [+2339 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Hasan Chowdhury",
+      "title": "There are 3 signs that generative AI might be reaching peak market froth \u2014 and it's not just OpenAI",
+      "description": "Signs that the AI frenzy is getting frothy have emerged in recent weeks across different segments such as chips, AI models and new form factors.",
+      "url": "https://www.businessinsider.com/generative-ai-market-froth-openai-cerebras-meta-2024-10",
+      "urlToImage": "https://i.insider.com/66fffc973f2165d716de71ed?width=1200&format=jpeg",
+      "publishedAt": "2024-10-05T09:37:01Z",
+      "content": "OpenAI CEO Sam Altman.Andrew Caballero-Reynolds/AFP/Getty Images\r\n<ul><li>There are signs across AI models, chips, and new form factors that the market is getting frothy. </li><li>OpenAI will need to\u2026 [+6885 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Jacob Roach",
+      "title": "Nvidia just dropped a big hint about the RTX 50-series release date",
+      "description": "It's not clear when Nvidia's RTX 50-series GPUs will release, but the company just dropped a pretty big hint.",
+      "url": "https://www.digitaltrends.com/computing/nvidia-ces-2025-keynote-jensen-huang/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/11/rtx-4080-review-12.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-09T11:00:51Z",
+      "content": "Speculation has been running rampant about Nvidia\u2019s launch of next-gen RTX 50-series GPUs, but the company itself just dropped a big hint about when they may show up. Nvidia CEO Jensen Huang is set t\u2026 [+1898 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Jacob Roach",
+      "title": "Nvidia\u2019s CEO \u2014 yes, one person \u2014 is now worth more than all of Intel",
+      "description": "According to the most recent net worth estimates, Nvidia's CEO could buy Intel with about $13 billion to spare.",
+      "url": "https://www.digitaltrends.com/computing/nvidia-ceo-worth-more-than-intel/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/10/nvidia-gtc-2020-jensen-huang.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-07T13:54:20Z",
+      "content": "Nvidia is one of the richest companies in the world, so it\u2019s no surprise that the company\u2019s CEO, Jensen Huang, is quite wealthy. The most recent net worth numbers from Forbes puts into context just h\u2026 [+2201 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Mark Mantel",
+      "title": "TSMC: Rekordquartal dank Nvidia, Intel, Apple, Mediatek und Qualcomm",
+      "description": "In drei Monaten hat TSMC 23,5 Milliarden US-Dollar umgesetzt. Die 3-Nanometer-Fertigung ist ein gro\u00dfer Treiber.",
+      "url": "https://www.heise.de/news/TSMC-Rekordquartal-dank-Nvidia-Intel-Apple-Mediatek-und-Qualcomm-9985014.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/9/1/2/1/1/Fab12inc031_632_0-83c7a9d085164be3.jpg",
+      "publishedAt": "2024-10-17T13:44:00Z",
+      "content": "Inhaltsverzeichnis\r\nDer weltweit gr\u00f6\u00dfte Chipauftragsfertiger TSMC aus Taiwan \u00fcberrascht mit noch besseren Zahlen als prognostiziert. 23,5 Milliarden US-Dollar hat die Firma im dritten Quartal 2024 um\u2026 [+4629 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Mark Mantel",
+      "title": "AMD und Nvidia verkauften im zweiten Quartal wieder mehr Grafikkarten",
+      "description": "Rund 9,5 Millionen Desktop-Grafikkarten wurden im zweiten Quartal verkauft. AMDs Marktanteil stagniert auf niedrigem Niveau.",
+      "url": "https://www.heise.de/news/AMD-und-Nvidia-verkauften-im-zweiten-Quartal-wieder-mehr-Grafikkarten-9952650.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/7/5/8/0/4/Grafikkarten_gemischt_ct-c6c001d2718424d1.jpg",
+      "publishedAt": "2024-09-25T10:14:00Z",
+      "content": "AMD und Nvidia haben ein Verkaufstief von Ende 2022 bis Sommer 2023 offenbar anhaltend \u00fcberwunden: Im zweiten Quartal 2024 verkauften beide Firmen zusammen rund 9,5 Millionen Desktop-Grafikkarten. Nu\u2026 [+1750 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Isabel Gr\u00fcnewald",
+      "title": "KI-Update kompakt: OpenAI & Nvidia, Meta Gen, Mathematik, Lumigator",
+      "description": "Das \"KI-Update\" liefert werkt\u00e4glich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAI-Nvidia-Meta-Gen-Mathematik-Lumigator-9964051.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/1/7/9/8/KIupdate_Titel_122023-4cd1ddee68e292c6.png",
+      "publishedAt": "2024-10-07T13:00:00Z",
+      "content": "Inhaltsverzeichnis\r\nOpenAI hat eine Finanzierungsrunde in H\u00f6he von 6,6 Milliarden US-Dollar abgeschlossen, was einer Unternehmensbewertung von 157 Milliarden Dollar entspricht. Dies ist ein Anstieg v\u2026 [+9125 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Luis Miranda",
+      "title": "Qualcomm podr\u00eda comprar Intel y convertirse en el fabricante de chips m\u00e1s grande del mundo",
+      "description": "Qualcomm podr\u00eda comprar a Intel y convertirse en el fabricante de chips m\u00e1s grande del mundo. Un reporte del diario The Wall Street Journal menciona que los gigantes de chips conversaron hace unos d\u00edas para acordar una posible adquisici\u00f3n. De materializarse, \u2026",
+      "url": "http://hipertextual.com/2024/09/qualcomm-podria-comprar-intel",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/08/intel-chips.jpg",
+      "publishedAt": "2024-09-20T20:22:49Z",
+      "content": "Qualcomm podr\u00eda comprar a Intel y convertirse en el fabricante de chips m\u00e1s grande del mundo. Un reporte del diario The Wall Street Journal menciona que los gigantes de chips conversaron hace unos d\u00ed\u2026 [+2248 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Kyle Barr",
+      "title": "Maingear MG-1 Review: You Can\u2019t Get More Custom Than This",
+      "description": "The Maingear MG-1 is a great custom PC that allows for a wide variety of high-quality gaming specs. If you don't want to actually build your own PC, this is as close as you can get to the real deal.",
+      "url": "https://gizmodo.com/maingear-mg-1-review-you-cant-get-more-custom-than-this-2000505864",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Maingear-MG-1-1-e1727806613920.jpg",
+      "publishedAt": "2024-10-02T10:00:02Z",
+      "content": "Theres something special about building a PC by hand. I still have fond memories of my first tower. But we have to face facts: Some people dont have the time or patience to identify all the parts the\u2026 [+8387 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Katherine Tangalakis-Lippert",
+      "title": "Apple no longer in talks to invest in OpenAI: report",
+      "description": "Apple fell out of talks to invest in OpenAI's next funding round, which could raise as much as $6.5 billion, The Wall Street Journal reported.",
+      "url": "https://www.businessinsider.com/apple-falls-out-talks-invest-openai-wsj-report-2024-9",
+      "urlToImage": "https://i.insider.com/66f760de75c877a99b61887e?width=1200&format=jpeg",
+      "publishedAt": "2024-09-28T02:31:36Z",
+      "content": "Apple is no longer involved in talks to invest in OpenAI's next funding round, which could value OpenAI at $150 billion, The Wall Street Journal reported.Budrul Chukrut/SOPA Images/LightRocket via Ge\u2026 [+1195 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Ben Bergman,Sri Muppidi",
+      "title": "Tiger Global is backing OpenAI in new $6.6 billion investment round",
+      "description": "Tiger Global Management is doubling down on OpenAI, investing in the ChatGPT maker's massive new $6.6 billion funding round.",
+      "url": "https://www.businessinsider.com/tiger-global-openai-latest-funding-round-2024-10",
+      "urlToImage": "https://i.insider.com/6571d5067a3c8094d5da903c?width=1200&format=jpeg",
+      "publishedAt": "2024-10-02T17:48:51Z",
+      "content": "Chase Coleman is the Founder of Tiger Global Management.Business Insider/ Mike Nudelman\r\n<ul><li>OpenAI announced it raised $6.6 billion in new funding at a $157 billion post-money valuation.</li><li\u2026 [+1093 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Juan Carlos L\u00f3pez",
+      "title": "China ha respondido a EEUU con un hito: ya tiene un modelo de IA capaz de correr en GPU con distintas arquitecturas",
+      "description": "Sundar Pichai, el director general de Alphabet, la corporaci\u00f3n a la que pertenece Google, est\u00e1 convencido de que \"la escala del trabajo que est\u00e1 llevando a cabo China en el \u00e1mbito de la inteligencia artificial (IA) es asombrosa [...] China va a estar a la van\u2026",
+      "url": "https://www.xataka.com/investigacion/china-ha-respondido-a-eeuu-hito-tiene-modelo-ia-capaz-correr-gpu-distintas-arquitecturas",
+      "urlToImage": "https://i.blogs.es/9afc6d/centrodedatos-ap/840_560.jpeg",
+      "publishedAt": "2024-09-30T14:16:49Z",
+      "content": "Sundar Pichai, el director general de Alphabet, la corporaci\u00f3n a la que pertenece Google, est\u00e1 convencido de que \"la escala del trabajo que est\u00e1 llevando a cabo China en el \u00e1mbito de la inteligencia \u2026 [+3412 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Javier Lacort",
+      "title": "Todo el mundo ha hecho una apuesta a ciegas en la ronda de inversi\u00f3n de OpenAI. Menos dos: Microsoft y NVIDIA",
+      "description": "Tras semanas de filtraciones, OpenAI ha cerrado finalmente una ronda de inversi\u00f3n de 6.600 millones de d\u00f3lares que le deja valorada en 157.000 millones de d\u00f3lares. Con esta cifra se consolida como una de las startups m\u00e1s valiosas del mundo.\n<!-- BREAK 1 -->\nP\u2026",
+      "url": "https://www.xataka.com/empresas-y-economia/todo-mundo-ha-hecho-apuesta-a-ciegas-ronda-inversion-openai-dos-microsoft-nvidia",
+      "urlToImage": "https://i.blogs.es/8cb7a2/huang-y-nadella/840_560.jpeg",
+      "publishedAt": "2024-10-03T10:30:37Z",
+      "content": "Tras semanas de filtraciones, OpenAI ha cerrado finalmente una ronda de inversi\u00f3n de 6.600 millones de d\u00f3lares que le deja valorada en 157.000 millones de d\u00f3lares. Con esta cifra se consolida como un\u2026 [+3072 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Steve Dent",
+      "title": "AMD's latest updates address 9000X desktop CPU performance issues",
+      "description": "After arriving two weeks late, AMD's Ryzen 9000-series desktop processors disappointed some buyers and reviewers due to lackluster performance. Now, the company has addressed those issues with several new updates.\u00a0\nThe biggest speed brake for Ryzen 9000 deskt\u2026",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_62ab6ac5-1219-4c8f-8d77-d66768ca3699",
+      "urlToImage": null,
+      "publishedAt": "2024-09-30T13:00:38Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Beatrice Nolan",
+      "title": "What the roller coaster earnings at ASML and TSMC tell us about demand for AI chips",
+      "description": "TSMC's blockbuster results will be a welcome surprise to investors after ASML's earnings sent semiconductor stocks tumbling earlier this week.",
+      "url": "https://www.businessinsider.com/asml-tsmc-earnings-demand-ai-chips-2024-10",
+      "urlToImage": "https://i.insider.com/67110b8b3f2165d716e27179?width=1024&format=jpeg",
+      "publishedAt": "2024-10-17T17:09:28Z",
+      "content": "The TSMC (Taiwan Semiconductor Manufacturing Company) logo on the company building in Hsinchu.Walid Berrazeg/Getty\r\n<ul><li>The latest bump in the AI road was a downbeat earnings report from ASML tha\u2026 [+4514 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Darius Rafieyan",
+      "title": "OpenAI's investors include Silicon Valley's most prolific bubble-chasers. Is that a bad sign for the company's future?",
+      "description": "OpenAI's investors include Silicon Valley's most prolific bubble-chasers; is that a bad sign for the company's future?",
+      "url": "https://www.businessinsider.com/openai-investors-softbank-ark-tiger-global-2024-10",
+      "urlToImage": "https://i.insider.com/65081a0cf05aa00019bdfa0f?width=1200&format=jpeg",
+      "publishedAt": "2024-10-03T13:00:01Z",
+      "content": "SoftBank boss Masayoshi Son. Tomohiro Ohsumi/Getty Images\r\n<ul><li>OpenAI raised $6.6 billion in a deal that values the company at more than $150 billion</li><li>Investors include Nvidia, Thrive Capi\u2026 [+3720 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Helen Li",
+      "title": "Elon Musk's xAI is on a hiring spree for 'AI tutors'",
+      "description": "Elon Musk's xAI recruits AI Tutors for language algorithm training amid X's user decline.",
+      "url": "https://www.businessinsider.com/elon-musk-xai-hiring-spree-ai-tutors-2024-10",
+      "urlToImage": "https://i.insider.com/670ff527a703186492831086?width=1200&format=jpeg",
+      "publishedAt": "2024-10-16T18:16:43Z",
+      "content": "Elon Musk, founder of xAI.Anadolu\r\n<ul><li>Elon Musk's AI startup xAI is hiring AI Tutors for data annotation to train language algorithms.</li><li>xAI partners closely with X, formerly known as Twit\u2026 [+3480 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Mark Mantel",
+      "title": "Nvidia stellt die GeForce RTX 5090, 5080 und 5070 angeblich im Januar vor",
+      "description": "Angeblich stellt Nvidia im Januar die GeForce RTX 5090, 5080 und 5070 vor. Nur das Topmodell soll einen gro\u00dfen Leistungssprung hinlegen.",
+      "url": "https://www.heise.de/news/Nvidia-stellt-die-GeForce-RTX-5090-5080-und-5070-angeblich-im-Januar-vor-9977911.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/7/4/5/9/33508a9230867de330e474bcb92a62282b785f3b58f096f45e86b242a5b51b38-348e73044064a2a5.jpg",
+      "publishedAt": "2024-10-11T10:12:00Z",
+      "content": "Nvidia will offenbar die Technikmesse CES 2025 Anfang Januar nutzen, um die ersten drei Desktop-Grafikkarten aus der Blackwell-Generation anzuk\u00fcndigen: die GeForce RTX 5090, GeForce RTX 5080 und GeFo\u2026 [+3349 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Frank Schr\u00e4er",
+      "title": "USA erw\u00e4gen Exportbeschr\u00e4nkungen von KI-Chips f\u00fcr einige Staaten im Nahen Osten",
+      "description": "Nach China k\u00f6nnten k\u00fcnftig auch L\u00e4nder am persischen Golf weniger KI-Chips von Nvidia und AMD bekommen. Ob das noch unter Biden verabschiedet wird, ist unklar.",
+      "url": "https://www.heise.de/news/USA-erwaegen-Exportbeschraenkungen-von-KI-Chips-fuer-einige-Staaten-im-Nahen-Osten-9982534.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/8/9/8/5/2/shutterstock_1196754286-0525f69e9002785e.jpg",
+      "publishedAt": "2024-10-16T02:30:00Z",
+      "content": "Staaten wie Saudi-Arabien und die Vereinigten Arabischen Emirate k\u00f6nnten bald Exportbeschr\u00e4nkungen von speziell f\u00fcr K\u00fcnstliche Intelligenz geeigneten Chips unterliegen. Das wird zumindest derzeit inn\u2026 [+2984 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Gabriel Erard",
+      "title": "Los requisitos para jugar \u2018Red Dead Redemption\u2019 en PC",
+      "description": "El debut de Red Dead Redemption en PC al fin es oficial. El ic\u00f3nico juego de Rockstar Games llegar\u00e1 a los ordenadores 14 a\u00f1os despu\u00e9s de su debut en la PS3 y la Xbox 360, y un a\u00f1o despu\u00e9s del lanzamiento en Nintendo Switch y PS4. Los fan\u00e1ticos llevaban a\u00f1os r\u2026",
+      "url": "http://hipertextual.com/2024/10/los-requisitos-para-jugar-red-dead-redemption-en-pc",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/10/RDR-scaled.jpg",
+      "publishedAt": "2024-10-08T16:11:54Z",
+      "content": "El debut de Red Dead Redemption en PC al fin es oficial. El ic\u00f3nico juego de Rockstar Games llegar\u00e1 a los ordenadores 14 a\u00f1os despu\u00e9s de su debut en la PS3 y la Xbox 360, y un a\u00f1o despu\u00e9s del lanzami\u2026 [+2299 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hipertextual" },
+      "author": "Rub\u00e9n Chicharro",
+      "title": "OpenAI busca asfixiar a xAI y Anthropic, y acaba de dar un paso clave para lograrlo",
+      "description": "OpenAI ha conseguido cerrar una multimillonaria ronda de financiaci\u00f3n en la que ha dado como resultado que la empresa dirigida por Sam Altman aumente su valoraci\u00f3n en hasta los 157.000 millones de d\u00f3lares. La compa\u00f1\u00eda, en concreto, ha conseguido una inversi\u00f3n\u2026",
+      "url": "http://hipertextual.com/2024/10/openai-busca-asfixiar-a-xai-y-anthropic-y-acaba-de-dar-un-paso-clave-para-lograrlo",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/11/21645928982_be5d4f0afa_o-scaled.jpg",
+      "publishedAt": "2024-10-03T10:11:42Z",
+      "content": "OpenAI ha conseguido cerrar una multimillonaria ronda de financiaci\u00f3n en la que ha dado como resultado que la empresa dirigida por Sam Altman aumente su valoraci\u00f3n en hasta los 157.000 millones de d\u00f3\u2026 [+2173 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Aaron Mamiit",
+      "title": "This iBuyPower gaming PC with RTX 4070 Ti Super is $700 off",
+      "description": "The iBuyPower RDY Y70 001 gaming PC with the Nvidia GeForce RTX 4070 Ti Super graphics card can be yours at $700 off, after a discount and code from iBuyPower.",
+      "url": "https://www.digitaltrends.com/computing/ibuypower-rdy-y70-001-gaming-pc-deal-ibuypower-october-2024/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/10/iBuyPower-Y70-001-gaming-PC.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-10-16T18:26:14Z",
+      "content": "iBuyPower\r\nGamers who want to upgrade to a top-tier machine through gaming PC deals should check out this offer for the iBuyPower RDY Y70 001 gaming PC. Originally $2,599, a $600 discount slashes its\u2026 [+1783 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Kyle Orland",
+      "title": "Legendary Mario creator on AI: Nintendo is \u201cgoing the opposite direction\u201d",
+      "description": "Switch-maker shows little interest in jumping on the latest industry bandwagon.",
+      "url": "https://arstechnica.com/gaming/2024/09/legendary-mario-creator-on-ai-nintendo-is-going-the-opposite-direction/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/miyamoto-615x380.png",
+      "publishedAt": "2024-09-26T15:01:42Z",
+      "content": "Artist's conception of Miyamoto preparing to fend off investors eager for more generative AI integration.\r\n1\r\nIn the last few years, large swaths of the game industry have embraced generative AI, bot\u2026 [+2186 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Investing.com",
+      "title": "Nvidia: Goldman Sachs lifts target, sees 11% potential upside",
+      "description": "Investing.com -- Goldman Sachs raised its price target for Nvidia (NASDAQ:NVDA) to $150 from $135 per share in a note Friday, reflecting an 11% potential...",
+      "url": "https://finance.yahoo.com/news/nvidia-goldman-sachs-lifts-target-114539798.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+      "publishedAt": "2024-10-11T11:45:39Z",
+      "content": "Investing.com -- Goldman Sachs raised its price target for Nvidia (NASDAQ:NVDA) to $150 from $135 per share in a note Friday, reflecting an 11% potential upside.\r\nThe investment bank said that in a r\u2026 [+1716 chars]"
+    }
+  ]
+}
