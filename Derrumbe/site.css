@@ -1,0 +1,13 @@
+#body {
+    background-color: #f4fff7;
+}
+
+#cr {
+    background-color: #a7dcff; 
+
+    height: 100px;
+    width: 95%;
+    margin: 2.5%;
+
+    border-radius: 10px;
+}
