@@ -1,0 +1,462 @@
+{
+  "by_school": {
+    "Eton": {
+      "9": [
+        {
+          "order_id": "ETON-VO-ML82JXAS-ZLB0O",
+          "buyer_name": "Javier Trejo",
+          "buyer_email": "javier.trejo@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Ivanna Trejo",
+          "school": "Eton",
+          "grade_raw": "9",
+          "grade": "9",
+          "gift_type": "globos",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        }
+      ],
+      "10": [
+        {
+          "order_id": "ETON-VO-ML85ZW0G-IHL14",
+          "buyer_name": "Alejandro Rojas",
+          "buyer_email": "alejandro_rojas@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Samuel",
+          "school": "Eton",
+          "grade_raw": "10",
+          "grade": "10",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        }
+      ],
+      "11": [
+        {
+          "order_id": "ETON-VO-ML88WN9H-WLP9W",
+          "buyer_name": "Mateo Burgos ",
+          "buyer_email": "mateo_burgos@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Martina Vilà",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML891PIS-DP6NK",
+          "buyer_name": "Isa Muñuzuri (test)",
+          "buyer_email": "isabella_munuzuri@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Ana Paula Cuellar",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "paletas",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML892JF4-4RSPC",
+          "buyer_name": "Santiago Gonorrea ",
+          "buyer_email": "isabel_garcia@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Martina Vilà",
+          "school": "Eton",
+          "grade_raw": "1102",
+          "grade": "11",
+          "gift_type": "serenata",
+          "payment_method": "CLIP_transfer",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML894NC2-D32XM",
+          "buyer_name": "Rodrigo Arrieta ",
+          "buyer_email": "rodrigo_arrieta@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Jorge Gallegos ",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "brownies",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML894NC2-D32XM",
+          "buyer_name": "Rodrigo Arrieta ",
+          "buyer_email": "rodrigo_arrieta@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Sharon Charfen ",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML894NC2-D32XM",
+          "buyer_name": "Rodrigo Arrieta ",
+          "buyer_email": "rodrigo_arrieta@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Alex Perkulis ",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "serenata",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML894NC2-D32XM",
+          "buyer_name": "Rodrigo Arrieta ",
+          "buyer_email": "rodrigo_arrieta@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Santiago Anaya ",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "brownies",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML894NC2-D32XM",
+          "buyer_name": "Rodrigo Arrieta ",
+          "buyer_email": "rodrigo_arrieta@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Patricio Morales ",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "galletas",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML894NC2-D32XM",
+          "buyer_name": "Rodrigo Arrieta ",
+          "buyer_email": "rodrigo_arrieta@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Gonzalo mañon ",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "serenata",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML894NC2-D32XM",
+          "buyer_name": "Rodrigo Arrieta ",
+          "buyer_email": "rodrigo_arrieta@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Gabriel López ",
+          "school": "Eton",
+          "grade_raw": "11",
+          "grade": "11",
+          "gift_type": "paletas",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 0
+        }
+      ],
+      "12": [
+        {
+          "order_id": "ETON-VO-ML8BTZBZ-MS15X",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "Matias_riboldi@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Matias TEST",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "CLIP_transfer",
+          "status": "pending",
+          "total_amount": 70
+        },
+        {
+          "order_id": "ETON-VO-ML8CEFF3-6FVK3",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "Matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "Matias TEST",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "",
+          "payment_method": "CLIP_transfer",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML8DOMDV-P7IX5",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "matias",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "paletas",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 50
+        },
+        {
+          "order_id": "ETON-VO-ML8DRG4B-HBAOQ",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "Matias",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 70
+        },
+        {
+          "order_id": "ETON-VO-ML8E7M7U-NF2SJ",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "matias",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 70
+        },
+        {
+          "order_id": "ETON-VO-ML8E8ZX7-SJ1Q5",
+          "buyer_name": "matias test",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "matias",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 70
+        },
+        {
+          "order_id": "ETON-VO-ML8EARIG-5M5AN",
+          "buyer_name": "matias test",
+          "buyer_email": "matia_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "matias ",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 35
+        },
+        {
+          "order_id": "ETON-VO-ML8EC4S4-VSTA6",
+          "buyer_name": "matias",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "matias",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 35
+        },
+        {
+          "order_id": "-Oke5mV_6l3_6uqMJkhY",
+          "buyer_name": "matias test",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "matias",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 35
+        },
+        {
+          "order_id": "-Oke6Fmu0JebMG_fJB8b",
+          "buyer_name": "matias test",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "matias",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "card",
+          "status": "pending",
+          "total_amount": 35
+        },
+        {
+          "order_id": "-Oke6Yh-dv9RlgVUa1Wl",
+          "buyer_name": "Gerardo Garza  Test",
+          "buyer_email": "gerardo.g@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "Gerry",
+          "school": "Eton",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "felipitos",
+          "payment_method": "CLIP_transfer",
+          "status": "pending",
+          "total_amount": 50
+        }
+      ],
+      "13": [
+        {
+          "order_id": "ETON-VO-ML833FAB-GD5MF",
+          "buyer_name": "Gerry test ",
+          "buyer_email": "gerardo.g@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Michelle ",
+          "school": "Eton",
+          "grade_raw": "13",
+          "grade": "13",
+          "gift_type": "kiss_chocolate",
+          "payment_method": "CLIP_transfer",
+          "status": "pending",
+          "total_amount": 0
+        },
+        {
+          "order_id": "ETON-VO-ML8CZB93-Y8OSP",
+          "buyer_name": "gerry test",
+          "buyer_email": "gerardo.g@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "Gerry ",
+          "school": "Eton",
+          "grade_raw": "13",
+          "grade": "13",
+          "gift_type": "felipitos",
+          "payment_method": "CLIP_transfer",
+          "status": "pending",
+          "total_amount": 0
+        }
+      ]
+    },
+    "Irish": {
+      "all": [
+        {
+          "order_id": "ETON-VO-ML8BTZBZ-MS15X",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "Matias_riboldi@eton.edu.mx",
+          "anonymous": "NO",
+          "recipient_name": "Matias TEST",
+          "school": "Irish",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "CLIP_transfer",
+          "status": "pending",
+          "total_amount": 70
+        },
+        {
+          "order_id": "ETON-VO-ML8DOMDV-P7IX5",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "Matias",
+          "school": "Irish",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 50
+        },
+        {
+          "order_id": "ETON-VO-ML8DRG4B-HBAOQ",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "Matias",
+          "school": "Irish",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 70
+        },
+        {
+          "order_id": "ETON-VO-ML8E8ZX7-SJ1Q5",
+          "buyer_name": "matias test",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "matias",
+          "school": "Irish",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 70
+        }
+      ]
+    },
+    "Northridge": {
+      "all": [
+        {
+          "order_id": "ETON-VO-ML8E7M7U-NF2SJ",
+          "buyer_name": "Matias TEST",
+          "buyer_email": "matias_riboldi@eton.edu.mx",
+          "anonymous": "YES",
+          "recipient_name": "matias",
+          "school": "Northridge",
+          "grade_raw": "12",
+          "grade": "12",
+          "gift_type": "roses",
+          "payment_method": "cash",
+          "status": "pending",
+          "total_amount": 70
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_gifts": 30,
+    "by_school": {
+      "Eton": 25,
+      "Irish": 4,
+      "Northridge": 1
+    },
+    "by_gift_type": {
+      "globos": 1,
+      "kiss_chocolate": 1,
+      "roses": 16,
+      "paletas": 3,
+      "serenata": 3,
+      "brownies": 2,
+      "galletas": 1,
+      "felipitos": 2
+    }
+  }
+}

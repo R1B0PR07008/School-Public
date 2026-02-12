@@ -1,0 +1,11 @@
+order_id,recipient_name,gift_type,buyer_name,anonymous,payment_method,status
+ETON-VO-ML88WN9H-WLP9W,Martina Vilà,roses,Mateo Burgos ,NO,cash,pending
+ETON-VO-ML891PIS-DP6NK,Ana Paula Cuellar,paletas,Isa Muñuzuri (test),NO,cash,pending
+ETON-VO-ML892JF4-4RSPC,Martina Vilà,serenata,Santiago Gonorrea ,NO,CLIP_transfer,pending
+ETON-VO-ML894NC2-D32XM,Jorge Gallegos ,brownies,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,Sharon Charfen ,roses,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,Alex Perkulis ,serenata,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,Santiago Anaya ,brownies,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,Patricio Morales ,galletas,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,Gonzalo mañon ,serenata,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,Gabriel López ,paletas,Rodrigo Arrieta ,NO,cash,pending

@@ -1,0 +1,12 @@
+order_id,recipient_name,gift_type,buyer_name,anonymous,payment_method,status
+ETON-VO-ML8BTZBZ-MS15X,Matias TEST,roses,Matias TEST,NO,CLIP_transfer,pending
+ETON-VO-ML8CEFF3-6FVK3,Matias TEST,,Matias TEST,YES,CLIP_transfer,pending
+ETON-VO-ML8DOMDV-P7IX5,matias,paletas,Matias TEST,YES,cash,pending
+ETON-VO-ML8DRG4B-HBAOQ,Matias,roses,Matias TEST,YES,cash,pending
+ETON-VO-ML8E7M7U-NF2SJ,matias,roses,Matias TEST,YES,cash,pending
+ETON-VO-ML8E8ZX7-SJ1Q5,matias,roses,matias test,YES,cash,pending
+ETON-VO-ML8EARIG-5M5AN,matias ,roses,matias test,YES,cash,pending
+ETON-VO-ML8EC4S4-VSTA6,matias,roses,matias,NO,cash,pending
+-Oke5mV_6l3_6uqMJkhY,matias,roses,matias test,YES,cash,pending
+-Oke6Fmu0JebMG_fJB8b,matias,roses,matias test,NO,card,pending
+-Oke6Yh-dv9RlgVUa1Wl,Gerry,felipitos,Gerardo Garza  Test,YES,CLIP_transfer,pending

@@ -1,0 +1,26 @@
+order_id,grade,recipient_name,gift_type,buyer_name,anonymous,payment_method,status
+ETON-VO-ML82JXAS-ZLB0O,9,Ivanna Trejo,globos,Javier Trejo,NO,cash,pending
+ETON-VO-ML833FAB-GD5MF,13,Michelle ,kiss_chocolate,Gerry test ,NO,CLIP_transfer,pending
+ETON-VO-ML8CZB93-Y8OSP,13,Gerry ,felipitos,gerry test,YES,CLIP_transfer,pending
+ETON-VO-ML85ZW0G-IHL14,10,Samuel,roses,Alejandro Rojas,NO,cash,pending
+ETON-VO-ML88WN9H-WLP9W,11,Martina Vilà,roses,Mateo Burgos ,NO,cash,pending
+ETON-VO-ML891PIS-DP6NK,11,Ana Paula Cuellar,paletas,Isa Muñuzuri (test),NO,cash,pending
+ETON-VO-ML892JF4-4RSPC,11,Martina Vilà,serenata,Santiago Gonorrea ,NO,CLIP_transfer,pending
+ETON-VO-ML894NC2-D32XM,11,Jorge Gallegos ,brownies,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,11,Sharon Charfen ,roses,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,11,Alex Perkulis ,serenata,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,11,Santiago Anaya ,brownies,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,11,Patricio Morales ,galletas,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,11,Gonzalo mañon ,serenata,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML894NC2-D32XM,11,Gabriel López ,paletas,Rodrigo Arrieta ,NO,cash,pending
+ETON-VO-ML8BTZBZ-MS15X,12,Matias TEST,roses,Matias TEST,NO,CLIP_transfer,pending
+ETON-VO-ML8CEFF3-6FVK3,12,Matias TEST,,Matias TEST,YES,CLIP_transfer,pending
+ETON-VO-ML8DOMDV-P7IX5,12,matias,paletas,Matias TEST,YES,cash,pending
+ETON-VO-ML8DRG4B-HBAOQ,12,Matias,roses,Matias TEST,YES,cash,pending
+ETON-VO-ML8E7M7U-NF2SJ,12,matias,roses,Matias TEST,YES,cash,pending
+ETON-VO-ML8E8ZX7-SJ1Q5,12,matias,roses,matias test,YES,cash,pending
+ETON-VO-ML8EARIG-5M5AN,12,matias ,roses,matias test,YES,cash,pending
+ETON-VO-ML8EC4S4-VSTA6,12,matias,roses,matias,NO,cash,pending
+-Oke5mV_6l3_6uqMJkhY,12,matias,roses,matias test,YES,cash,pending
+-Oke6Fmu0JebMG_fJB8b,12,matias,roses,matias test,NO,card,pending
+-Oke6Yh-dv9RlgVUa1Wl,12,Gerry,felipitos,Gerardo Garza  Test,YES,CLIP_transfer,pending

@@ -1,0 +1,31 @@
+order_id,school,grade,recipient_name,gift_type,buyer_name,buyer_email,anonymous,payment_method,status,total_amount
+ETON-VO-ML82JXAS-ZLB0O,Eton,9,Ivanna Trejo,globos,Javier Trejo,javier.trejo@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML833FAB-GD5MF,Eton,13,Michelle ,kiss_chocolate,Gerry test ,gerardo.g@eton.edu.mx,NO,CLIP_transfer,pending,0
+ETON-VO-ML85ZW0G-IHL14,Eton,10,Samuel,roses,Alejandro Rojas,alejandro_rojas@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML88WN9H-WLP9W,Eton,11,Martina Vilà,roses,Mateo Burgos ,mateo_burgos@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML891PIS-DP6NK,Eton,11,Ana Paula Cuellar,paletas,Isa Muñuzuri (test),isabella_munuzuri@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML892JF4-4RSPC,Eton,11,Martina Vilà,serenata,Santiago Gonorrea ,isabel_garcia@eton.edu.mx,NO,CLIP_transfer,pending,0
+ETON-VO-ML894NC2-D32XM,Eton,11,Jorge Gallegos ,brownies,Rodrigo Arrieta ,rodrigo_arrieta@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML894NC2-D32XM,Eton,11,Sharon Charfen ,roses,Rodrigo Arrieta ,rodrigo_arrieta@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML894NC2-D32XM,Eton,11,Alex Perkulis ,serenata,Rodrigo Arrieta ,rodrigo_arrieta@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML894NC2-D32XM,Eton,11,Santiago Anaya ,brownies,Rodrigo Arrieta ,rodrigo_arrieta@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML894NC2-D32XM,Eton,11,Patricio Morales ,galletas,Rodrigo Arrieta ,rodrigo_arrieta@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML894NC2-D32XM,Eton,11,Gonzalo mañon ,serenata,Rodrigo Arrieta ,rodrigo_arrieta@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML894NC2-D32XM,Eton,11,Gabriel López ,paletas,Rodrigo Arrieta ,rodrigo_arrieta@eton.edu.mx,NO,cash,pending,0
+ETON-VO-ML8BTZBZ-MS15X,Eton,12,Matias TEST,roses,Matias TEST,Matias_riboldi@eton.edu.mx,NO,CLIP_transfer,pending,70
+ETON-VO-ML8BTZBZ-MS15X,Irish,12,Matias TEST,roses,Matias TEST,Matias_riboldi@eton.edu.mx,NO,CLIP_transfer,pending,70
+ETON-VO-ML8CEFF3-6FVK3,Eton,12,Matias TEST,,Matias TEST,Matias_riboldi@eton.edu.mx,YES,CLIP_transfer,pending,0
+ETON-VO-ML8CZB93-Y8OSP,Eton,13,Gerry ,felipitos,gerry test,gerardo.g@eton.edu.mx,YES,CLIP_transfer,pending,0
+ETON-VO-ML8DOMDV-P7IX5,Eton,12,matias,paletas,Matias TEST,matias_riboldi@eton.edu.mx,YES,cash,pending,50
+ETON-VO-ML8DOMDV-P7IX5,Irish,12,Matias,roses,Matias TEST,matias_riboldi@eton.edu.mx,YES,cash,pending,50
+ETON-VO-ML8DRG4B-HBAOQ,Eton,12,Matias,roses,Matias TEST,matias_riboldi@eton.edu.mx,YES,cash,pending,70
+ETON-VO-ML8DRG4B-HBAOQ,Irish,12,Matias,roses,Matias TEST,matias_riboldi@eton.edu.mx,YES,cash,pending,70
+ETON-VO-ML8E7M7U-NF2SJ,Eton,12,matias,roses,Matias TEST,matias_riboldi@eton.edu.mx,YES,cash,pending,70
+ETON-VO-ML8E7M7U-NF2SJ,Northridge,12,matias,roses,Matias TEST,matias_riboldi@eton.edu.mx,YES,cash,pending,70
+ETON-VO-ML8E8ZX7-SJ1Q5,Eton,12,matias,roses,matias test,matias_riboldi@eton.edu.mx,YES,cash,pending,70
+ETON-VO-ML8E8ZX7-SJ1Q5,Irish,12,matias,roses,matias test,matias_riboldi@eton.edu.mx,YES,cash,pending,70
+ETON-VO-ML8EARIG-5M5AN,Eton,12,matias ,roses,matias test,matia_riboldi@eton.edu.mx,YES,cash,pending,35
+ETON-VO-ML8EC4S4-VSTA6,Eton,12,matias,roses,matias,matias_riboldi@eton.edu.mx,NO,cash,pending,35
+-Oke5mV_6l3_6uqMJkhY,Eton,12,matias,roses,matias test,matias_riboldi@eton.edu.mx,YES,cash,pending,35
+-Oke6Fmu0JebMG_fJB8b,Eton,12,matias,roses,matias test,matias_riboldi@eton.edu.mx,NO,card,pending,35
+-Oke6Yh-dv9RlgVUa1Wl,Eton,12,Gerry,felipitos,Gerardo Garza  Test,gerardo.g@eton.edu.mx,YES,CLIP_transfer,pending,50
